@@ -35,7 +35,7 @@ body
     font-size: 8em;
     text-align: right;
     margin-bottom: 0;
-    color: #49366c;
+    color: #0c4f6b;
     font-weight: 700;
 }
 
@@ -44,7 +44,7 @@ body
 {
     position: relative;
     top: -0.6em;
-    font-size: 2em;
+    font-size: 1.7em;
     font-weight: 400;
 }
 
@@ -52,7 +52,7 @@ body
 h1, h2, h3
 {
     font-family: 'Roboto', sans-serif;
-    color: #49366c;
+    color: #0c4f6b;
 }
 
 

@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Agorakit, boite à outils open source pour groupes</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="../agorakit.css">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5064588-5"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-5064588-5');
+    </script>
+
+
+</head>
+
+<body>
+
+<!--
+    <div class="container">
+        <nav class="navbar navbar-toggleable-md">
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand" href="https://www.agorakit.org">Agorakit</a>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="./">Home </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://demo.agorakit.org" target="_blank">Demo</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://github.com/philippejadin/agorakit" target="_blank">Github</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+-->
+
+    <div class="container">
+        <!-- Example row of columns -->
+        <div class="row agorakit-intro">
+            <div class="col-md-6 agorakit-logo">
+                <h1>Agorakit</h1>
+                <p>outil collaboratif pour groupes</p>
+            </div>
+            <div class="col-md-6">
+                <img src="../agorakit-fireplace.jpg" class="img-fluid"/>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <h2>
+            Agorakit est un logiciel collaboratif qui permet de travailler en groupe.
+            <br/>En créant des groupes, les participants peuvent discuter, fixer des dates, partager des documents et tenir tout le monde à jour.
+            <br/>Agorakit est un forum, un calendrier, un gestionnaire de fichiers, un outil de cartographie et de notification par email.
+        </h2>
+
+    </div>
+
+    <div class="container">
+
+
+
+
+        <div class="card-deck">
+            <div class="card">
+                <img class="card-img-top img-fluid" src="../agorakit_groups.jpg" data-toggle="modal" data-target="#photo-modal"/>
+                <div class="card-block">
+                    <h3 class="card-title">Organisez-vous en groupes collaboratifs</h3>
+                    <p class="card-text">Vous pouvez créer autant de groupes que vous le souhaitez.
+                        Ceux-ci peuvent être ouverts ou fermés (sur invitation). Chaque groupe contient un forum,
+                        un calendrier, un gestionnaire de fichiers et tout ce qu'il vous faut pour tenir tout le monde au courant.</p>
+                </div>
+            </div>
+
+
+
+            <div class="card">
+                <img class="card-img-top img-fluid" src="../agorakit_agenda.jpg" data-toggle="modal" data-target="#photo-modal"/>
+                <div class="card-block">
+                    <h3 class="card-title">Gérez un agenda collaboratif</h3>
+                    <p class="card-text">Chaque groupe a son calendrier auquel chacun peut contribuer.
+                        Vous disposez d'un flux iCal prêt à être intégré ailleurs. Un calendrier global reprend l'ensemble des événements de tous les groupes afin d'avoir une vue d'ensemble.
+                    </p>
+
+                </div>
+            </div>
+
+
+            <div class="card">
+                <img class="card-img-top img-fluid" src="../agorakit_map.jpg" data-toggle="modal" data-target="#photo-modal"/>
+                <div class="card-block">
+                    <h3 class="card-title">Géolocalisez les groupes, les personnes et les événements</h3>
+                    <p class="card-text">
+                        Présentez sur une carte toutes les ressources (personnes, groupes, événements) automatiquement.
+                        Chacun choisi ou non d'être repris sur cette carte bien entendu. La géolocalisation des personnes est expressément rendue floue afin de garantir la vie privée.
+                        </p>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="card-deck">
+
+
+            <div class="card">
+                <img class="card-img-top img-fluid" src="../agorakit_overview.jpg" data-toggle="modal" data-target="#photo-modal"/>
+                <div class="card-block">
+                    <h3 class="card-title">Consultez un apperçu des discussions non lues et des événements à venir</h3>
+                    <p class="card-text">Chaque utilisateur dispose d'un panneau de contrôle qui lui permet de consulter les nouvelles discussions (comme une boite email).
+                    Ceci évite les problèmes des mailing list qui encombrent les boites mail et décourangent les gens.
+                    Conservez une archive des discussions passées pour les nouveaux arrivants.</p>
+                </div>
+            </div>
+
+
+            <div class="card">
+                <img class="card-img-top img-fluid" src="../agorakit_notifications.jpg" data-toggle="modal" data-target="#photo-modal"/>
+                <div class="card-block">
+                    <h3 class="card-title">Désencombrez votre boite mail</h3>
+                    <p class="card-text">Evitez de recevoir un mail à chaque nouvelle intervention dans les groupes que vous suivez.
+                        <br/>Chacun décide de la fréquence des notifications, pour chaque groupe dont il est membre.
+                        Ceci évite le découragement des participants.
+                    </p>
+                </div>
+            </div>
+
+
+            <div class="card">
+                <img class="card-img-top img-fluid" src="../agorakit_files.jpg" data-toggle="modal" data-target="#photo-modal"/>
+                <div class="card-block">
+                    <h3 class="card-title">Gérez vos fichiers et vos liens</h3>
+                    <p>Chaque groupe dispose de son gestionnaire de fichiers dans lequel chacun peut déposer des fichiers et des liens.
+                    <br/>Retrouvez facilement vos PV's, partagez les archives du groupe avec les nouveaux. Partagez facilement des liens vers des documents partagés</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <div class="container">
+        <h2>Qui utilise Agorakit ?</h2>
+        <p>Agorakti est utilisé depuis 2015 par plusieurs mouvements citoyens d'envergure,
+            tels <a href="https://participer.toutautrechose.be">Tout autre chose</a> et <a href="http://deelnemen.hartbovenhard.be">Hart Boven Hard</a>.
+            Une série d'associations, d'écoles, de groupes informels l'utilise également à travers le monde.
+        </p>
+
+        <h2>Hébergement - utilisation</h2>
+        <p>
+            Nous vous proposons de gérer pour vous l'installation et la maintenance de Agorakit si vous le souhaitez à un tarif très abordable.
+            <br/>
+            Merci de <a href="mailto:info@agorakit.org">nous contacter pour plus d'informations</a>.
+        </p>
+
+        <h2>Licence</h2>
+        <p>
+            Agorakit est un outil open source (logiciel libre). Il peut être librement modifié et insallé gratuitement par tous.
+        </p>
+
+        <h2>Status</h2>
+        <p>Ce logiciel est utilisé quotidiennement. L'instance la plus large comprends plus d'un millier d'utilisateurs enrengistrés.
+            <br/>
+            Bien qu'en développement permanent, nous espérons que ce logiciel sera utile pour d'autres mouvements et initiatives. N'hésitez pas à nous contacter afin d'améliorer cet outil ensemble!
+        </p>
+
+        <h2>Contact</h2>
+        <p>Vous pouvez nous contacter à <a href="mailto:info@agorakit.org">info@agorakit.org</a></p>
+    </div>
+
+    <div class="container centered">
+        <div class="row">
+            <div class="col-md-4">
+                <a class="btn btn-primary btn-lg" href="https://demo.agorakit.org" role="button">Testez la démo</a>
+                <p/>
+            </div>
+            <div class="col-md-4">
+                <a class="btn btn-primary btn-lg" href="https://github.com/philippejadin/agorakit" role="button">Découvrez le code sur Github</a>
+                <p/>
+            </div>
+            <div class="col-md-4">
+                <a class="btn btn-primary btn-lg" href="https://paypal.me/philippejadin" role="button">Supportez financièrement le projet :-)</a>
+                <p/>
+            </div>
+        </div>
+    </div>
+
+    <div class="container centered">
+    </div>
+
+    <footer>
+        <div class="container centered">
+            <small>Made with love in Brussels</small>
+        </div>
+    </footer>
+
+
+    <div class="modal fade" id="photo-modal" tabindex="-1" role="dialog"  aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <img src=""/ class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    $('#photo-modal').on('show.bs.modal', function (event) {
+        var button = $(event.relatedTarget) // Button that triggered the modal
+        var src = button.attr("src") // Extract info from data-* attributes
+        // If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
+        // Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
+        var modal = $(this)
+        modal.find('img').attr("src", src)
+    })
+    </script>
+
+
+
+</body>
+</html>
