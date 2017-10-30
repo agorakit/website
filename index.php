@@ -1,8 +1,12 @@
 <?php
-$lang = locale_accept_from_http($_SERVER['HTTP_ACCEPT_LANGUAGE']);
+
 
 // extract 2 chars locale
-$lc = substr($lang, 0, 2);
+if(isset($_SERVER['HTTP_ACCEPT_LANGUAGE']))
+{
+    $lc = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2);
+}
+
 
 // redirect if not english
 if ($lc == "fr")
