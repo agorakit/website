@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway|Roboto:300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Cabin+Sketch|Covered+By+Your+Grace|Francois+One|Fugaz+One|Sarala');
 
 body
 {
@@ -32,18 +33,20 @@ body
 .agorakit-intro h1
 {
 
-    font-size: 8em;
+    font-size: 12em;
     text-align: right;
     margin-bottom: 0;
     color: #0c4f6b;
-    font-weight: 700;
+    /*font-weight: 700;*/
+    font-family: 'Covered By Your Grace'
+
 }
 
 
 .agorakit-intro p
 {
     position: relative;
-    top: -0.6em;
+    top: 0.5em;
     font-size: 1.25em;
     line-height: 1.1em;
     font-weight: 300;
