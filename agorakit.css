@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway|Roboto:300,400,700');
-@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Cabin+Sketch|Covered+By+Your+Grace|Francois+One|Fugaz+One|Sarala');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed:700');
+
 
 body
 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .container
@@ -11,6 +11,47 @@ body
     max-width: 70em;
     padding-bottom: 2em;
 }
+
+.jumbotron {
+  color: white;
+  background-image: url("./images/CS-protest-Helsinki-1968a-darker.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.jumbotron h1
+{
+  font-size: 4em;
+}
+
+.jumbotron p
+{
+  font-size: 2em;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 800px) {
+
+  .jumbotron h1
+  {
+    font-size: 2em;
+  }
+
+  .jumbotron p
+  {
+    font-size: 1em;
+  }
+}
+
+
+.container img
+{
+  border: 1px solid rgba(0,0,0,0.2);;
+  box-shadow: 10px 10px 25px -6px rgba(0,0,0,0.55);
+}
+
 
 .agorakit-intro
 {
@@ -55,8 +96,9 @@ body
 
 h1, h2, h3
 {
-    font-family: 'Roboto', sans-serif;
-    color: #0c4f6b;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight:700;
+    /*color: #0c4f6b;*/
 }
 
 
