@@ -6,6 +6,16 @@ body
     font-family: 'Roboto', sans-serif;
 }
 
+.navbar
+{
+    background-color: #0d475c !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,.9);
+}
+
+
 h1
 {
     font-size: 4em;
@@ -33,7 +43,8 @@ h1
 
 .pricing-card .card-header
 {
-    background-color: #319ede;
+    /*background-color: #319ede;*/
+    background-color: #0d475c;
     color: white;
 
 }
