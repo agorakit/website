@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed:700');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed:400,700');
 
 
 body
@@ -21,6 +21,25 @@ h1
     font-size: 2em;
 }
 
+.pricing-card li
+{
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+    /*text-align: left;*/
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight:400;
+}
+
+.pricing-card .card-header
+{
+    background-color: #319ede;
+    color: white;
+
+}
+
+
+
 .container
 {
     max-width: 70em;
@@ -28,43 +47,44 @@ h1
 }
 
 .jumbotron {
-  color: white;
-  /*background-image: url("./images/CS-protest-Helsinki-1968a-darker.jpg");*/
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 100vh;
+    color: white;
+    /*background-image: url("./images/CS-protest-Helsinki-1968a-darker.jpg");*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
 }
 
 .jumbotron h1
 {
-  font-size: 4em;
+    font-size: 4em;
 }
 
 .jumbotron p
 {
-  font-size: 2em;
-  font-weight: 700;
+    font-size: 2em;
+    font-weight: 700;
 }
 
 @media screen and (max-width: 800px) {
 
-  .jumbotron h1
-  {
-    font-size: 2em;
-  }
+    .jumbotron h1
+    {
+        font-size: 2em;
+    }
 
-  .jumbotron p
-  {
-    font-size: 1em;
-  }
+    .jumbotron p
+    {
+        font-size: 1em;
+    }
 }
 
 
 .shadow
 {
-  border: 1px solid rgba(0,0,0,0.2);;
-  box-shadow: 10px 10px 25px -6px rgba(0,0,0,0.55);
+    border: 1px solid rgba(0,0,0,0.2);;
+    /*box-shadow: 10px 10px 25px -6px rgba(0,0,0,1) !important;*/
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.25) !important;
 }
 
 

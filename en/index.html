@@ -15,6 +15,16 @@
 
     <link rel="stylesheet" href="../agorakit.css">
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5064588-5"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-5064588-5');
+    </script>
+
 
 
 </head>
@@ -38,7 +48,7 @@
                 <a class="nav-item nav-link" href="https://github.com/philippejadin/agorakit" target="_blank">
                     <i class="fab fa-github"></i> Get the code on Github
                 </a>
-                <a class="nav-item nav-link" href="https://agorakit.org/fr">Version française</a>
+                <a class="nav-item nav-link" href="../fr">Version française</a>
 
             </div>
         </div>
@@ -69,7 +79,7 @@
     </div>
 
     <div class="container d-flex justify-content-center mt-4">
-        <div class=" col-9 text-center">
+        <div class=" col-10">
             <h2>
                 Agorakit is web-based, open source groupware for collectives.
                 <br />By creating collaborative groups, people can discuss topics, organize events, store files and keep everyone updated as needed.
@@ -171,7 +181,9 @@
                 <h1 class="text-center mb-5">Pricing</h1>
 
                 <div class="card-deck mb-3 text-center align-self-stretch">
-                    <div class="card mb-4 shadow">
+
+
+                    <div class="pricing-card card mb-4 shadow">
                         <div class="card-header">
                             <h4 class="my-0 font-weight-normal">Free</h4>
                         </div>
@@ -192,7 +204,7 @@
                     </div>
 
 
-                    <div class="card mb-4 shadow">
+                    <div class="pricing-card card mb-4 shadow">
                         <div class="card-header">
                             <h4 class="my-0 font-weight-normal">Standard instance</h4>
                         </div>
@@ -218,14 +230,15 @@
 
 
 
-                    <div class="card mb-4 shadow">
+                    <div class="pricing-card card mb-4 shadow">
                         <div class="card-header">
                             <h4 class="my-0 font-weight-normal">Supporter instance</h4>
                         </div>
                         <div class="card-body">
                             <h1 class="card-title pricing-card-title">100€ <small class="text-muted">/ mo</small></h1>
                             <ul class="list-unstyled mt-3 mb-4">
-                                <li>Same as standard</li>
+                                <li>Everything you get in the standard plan</li>
+                                <li>You get to help us choose the features to add next</li>
                                 <li>You support the project by financing 2 hours of developement each month!</li>
                             </ul>
 
@@ -239,52 +252,55 @@
             </div>
 
 
-            <div class="container my-5">
-                <h1 class="text-center mb-5">Host it yourself / Custom development</h1>
+            <div class="container my-5 d-flex justify-content-center">
+                <div class="col-9">
 
-                <div class="card-deck mb-3 text-center align-self-stretch">
-                    <div class="card mb-4 shadow">
-                        <div class="card-header">
-                            <h4 class="my-0 font-weight-normal">Host it yourself</h4>
-                        </div>
-                        <div class="card-body">
-                            <h1 class="card-title pricing-card-title">0€ <small class="text-muted">/ mo</small></h1>
-                            <ul class="list-unstyled mt-3 mb-4">
-                                <li>No limits</li>
-                                <li>No freemium or commercial edition</li>
-                                <li>You handle everything</li>
-                                <li>GPL (open source) License</li>
-                                <li>Help & developper's group access</li>
-                            </ul>
+                    <h1 class="text-center mb-5">Host it yourself / Custom development</h1>
 
+                    <div class="card-deck mb-3 text-center align-self-stretch">
+
+
+                        <div class="pricing-card card mb-4 shadow">
+                            <div class="card-header">
+                                <h4 class="my-0 font-weight-normal">Host it yourself</h4>
+                            </div>
+                            <div class="card-body">
+                                <h1 class="card-title pricing-card-title">0€ <small class="text-muted">/ mo</small></h1>
+                                <ul class="list-unstyled mt-3 mb-4">
+                                    <li>No limits</li>
+                                    <li>No freemium or commercial edition</li>
+                                    <li><strong>You handle everything</strong></li>
+                                    <li>GPL (open source) License</li>
+                                    <li>Help & developper's group access</li>
+                                </ul>
+                            </div>
+
+                            <div class="card-footer">
+                                <a href="https://github.com/agorakit/agorakit" type="button" class="btn btn-lg btn-block btn-outline-primary">Get the source</a>
+                            </div>
                         </div>
 
-                        <div class="card-footer">
-                            <a href="https://github.com/agorakit/agorakit" type="button" class="btn btn-lg btn-block btn-outline-primary">Get the source</a>
+
+                        <div class="pricing-card card mb-4 shadow">
+                            <div class="card-header">
+                                <h4 class="my-0 font-weight-normal">Custom developement</h4>
+                            </div>
+                            <div class="card-body">
+                                <h1 class="card-title pricing-card-title">50€ <small class="text-muted">/ hour</small></h1>
+                                <ul class="list-unstyled mt-3 mb-4">
+                                    <li>Get advices</li>
+                                    <li>Ask for a quote</li>
+                                    <li>Everything is open source licensed</li>
+                                </ul>
+                            </div>
+                            <div class="card-footer">
+                                <a href="mailto:info@agorakit.org" type="button" class="btn btn-lg btn-block btn-primary">Contact us</a>
+                            </div>
                         </div>
+
                     </div>
-
-
-                    <div class="card mb-4 shadow">
-                        <div class="card-header">
-                            <h4 class="my-0 font-weight-normal">Custom developement</h4>
-                        </div>
-                        <div class="card-body">
-                            <h1 class="card-title pricing-card-title">50€ <small class="text-muted">/ hour</small></h1>
-                            <ul class="list-unstyled mt-3 mb-4">
-                                <li>Get advices</li>
-                                <li>Ask for a quote</li>
-                                <li>Everything is open source licensed</li>
-                            </ul>
-                        </div>
-                        <div class="card-footer">
-                            <a href="mailto:info@agorakit.org" type="button" class="btn btn-lg btn-block btn-primary">Contact us</a>
-                        </div>
-                    </div>
-
 
                 </div>
-
             </div>
 
 
