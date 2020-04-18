@@ -11,11 +11,11 @@ if(isset($_SERVER['HTTP_ACCEPT_LANGUAGE']))
 // redirect to french if found
 if ($locale == "fr")
 {
-    header("location: /fr");
+    header("location: /fr/");
     exit();
 }
 
 
 // default to english
-header("location: /en");
+header("location: /en/");
 exit();

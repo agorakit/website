@@ -31,29 +31,8 @@
 
 <body>
 
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="./"><img src="../images/logo-white.svg" width="40" height="40" /> Agorakit</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav">
-                <a class="nav-item nav-link" href="https://app.agorakit.org" target="_blank">
-                    <i class="fas fa-server"></i> Try the hosted app
-                </a>
-                <a class="nav-item nav-link" href="https://docs.agorakit.org" target="_blank">
-                    <i class="fas fa-book"></i> Read the documentation
-                </a>
 
-                <a class="nav-item nav-link" href="https://github.com/philippejadin/agorakit" target="_blank">
-                    <i class="fab fa-github"></i> Get the code on Github
-                </a>
-                <a class="nav-item nav-link" href="../fr">Version française</a>
-
-            </div>
-        </div>
-    </nav>
-
+    <?php include('nav.php') ?>
 
 
     <div class="container">
@@ -178,135 +157,6 @@
 
 
             <div class="container my-5">
-                <h1 class="text-center mb-5">Hosting</h1>
-
-                <div class="card-deck mb-3 text-center align-self-stretch">
-
-
-                    <div class="pricing-card card mb-4 shadow">
-                        <div class="card-header">
-                            <h4 class="my-0 font-weight-normal">Free</h4>
-                        </div>
-                        <div class="card-body">
-                            <h1 class="card-title pricing-card-title">0€ <small class="text-muted">/ mo</small></h1>
-                            <ul class="list-unstyled mt-3 mb-4">
-
-                                <li>For tests and smaller groups</li>
-                                <li>No secret groups</li>
-                                <li>Maximum 3 mb per file</li>
-                                <li>Help & developper's group access</li>
-                                <li><a href="https://app.agorakit.org" target="_blank">https://app.agorakit.org</a></li>
-                            </ul>
-
-                        </div>
-                        <div class="card-footer">
-                            <a href="https://app.agorakit.org" type="button" class="btn btn-lg btn-block btn-outline-primary" target="_blank">Sign up for free</a>
-                        </div>
-
-                    </div>
-
-
-                    <div class="pricing-card card mb-4 shadow">
-                        <div class="card-header">
-                            <h4 class="my-0 font-weight-normal">Standard instance</h4>
-                        </div>
-                        <div class="card-body">
-                            <h1 class="card-title pricing-card-title">50€ <small class="text-muted">/ mo</small></h1>
-                            <ul class="list-unstyled mt-3 mb-4">
-                                <li>Your own private instance</li>
-                                <li>Use your own domain or subdomain</li>
-                                <li>Unlimited users</li>
-                                <li>Large storage and files</li>
-                                <li>Priority email & phone support</li>
-                                <li>Help & developper's group access</li>
-                            </ul>
-
-                        </div>
-
-                        <div class="card-footer">
-                            <a href="mailto:info@agorakit.org" type="button" class="btn btn-lg btn-block btn-primary">Contact us</a>
-                        </div>
-
-                    </div>
-
-
-
-
-                    <div class="pricing-card card mb-4 shadow">
-                        <div class="card-header">
-                            <h4 class="my-0 font-weight-normal">Supporter instance</h4>
-                        </div>
-                        <div class="card-body">
-                            <h1 class="card-title pricing-card-title">100€ <small class="text-muted">/ mo</small></h1>
-                            <ul class="list-unstyled mt-3 mb-4">
-                                <li>Everything you get in the standard plan</li>
-                                <li>You get to help us choose the features to add next</li>
-                                <li>You support the project by financing 2 hours of developement each month!</li>
-                            </ul>
-
-                        </div>
-                        <div class="card-footer">
-                            <a href="mailto:info@agorakit.org" type="button" class="btn btn-lg btn-block btn-primary">Contact us</a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-
-            <div class="container my-5 d-flex justify-content-center">
-                <div class="col-9">
-
-                    <h1 class="text-center mb-5">Host it yourself / Custom development</h1>
-
-                    <div class="card-deck mb-3 text-center align-self-stretch">
-
-
-                        <div class="pricing-card card mb-4 shadow">
-                            <div class="card-header">
-                                <h4 class="my-0 font-weight-normal">Host it yourself</h4>
-                            </div>
-                            <div class="card-body">
-                                <h1 class="card-title pricing-card-title">0€ <small class="text-muted">/ mo</small></h1>
-                                <ul class="list-unstyled mt-3 mb-4">
-                                    <li>No limits</li>
-                                    <li>No freemium or commercial edition</li>
-                                    <li><strong>You handle everything</strong></li>
-                                    <li>GPL (open source) License</li>
-                                    <li>Help & developper's group access</li>
-                                </ul>
-                            </div>
-
-                            <div class="card-footer">
-                                <a href="https://github.com/agorakit/agorakit" type="button" class="btn btn-lg btn-block btn-outline-primary" target="_blank">Get the source</a>
-                            </div>
-                        </div>
-
-
-                        <div class="pricing-card card mb-4 shadow">
-                            <div class="card-header">
-                                <h4 class="my-0 font-weight-normal">Custom developement</h4>
-                            </div>
-                            <div class="card-body">
-                                <h1 class="card-title pricing-card-title">50€ <small class="text-muted">/ hour</small></h1>
-                                <ul class="list-unstyled mt-3 mb-4">
-                                    <li>Get advices</li>
-                                    <li>Ask for a quote</li>
-                                    <li>Everything is open source licensed</li>
-                                </ul>
-                            </div>
-                            <div class="card-footer">
-                                <a href="mailto:info@agorakit.org" type="button" class="btn btn-lg btn-block btn-primary">Contact us</a>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-            </div>
-
-
-            <div class="container my-5">
                 <h2>In use</h2>
                 <p>Agorakit has been used successfully since 2015 for several citizen initiatives such as
                     <a href="https://participer.toutautrechose.be">Tout autre chose</a>, <a href="http://deelnemen.hartbovenhard.be">Hart boven hard</a>, <a href="https://agora.reseautransition.be/">The transition network</a> and others.
@@ -326,6 +176,12 @@
                     While always in development, our hope are high that it will be useful to other initiatives. We recently discovered our main instance has no errors in productions in the logs. That was the right time to release 1.0.
                     <br />
                     Join the team and help us fine tune the beast!
+                </p>
+
+                <h2>Services</h2>
+                <p>
+                    We provide hosting and custom development services at afordable prices.
+                    <a href="./services.php">Check our packages here</a>.
                 </p>
 
                 <h2>Contact</h2>
