@@ -34,8 +34,8 @@ h1
 .pricing-card li
 {
     border-bottom: 1px solid #ccc;
-    margin-bottom: 1em;
-    padding-bottom: 1em;
+    margin-bottom: 0.8em;
+    padding-bottom: 0.8em;
     /*text-align: left;*/
     font-family: 'Roboto Condensed', sans-serif;
     font-weight:400;
