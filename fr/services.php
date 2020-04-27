@@ -7,9 +7,9 @@
 
 <div class="container my-5">
 
-    <h1 class="text-center mb-5" id="hebergement">Une plateforme pour toutes et tous</h1>
+    <h1 class="text-center mb-4" id="hebergement">Une plateforme pour toutes et tous</h1>
 
-    <h2 class="text-center mb-4">Option 1 : Agora partagée (votre groupe est hébergé avec d’autres)</h2>
+    <h2 class="text-center mb-5">Option 1 : Agora partagée (votre groupe est hébergé avec d’autres)</h2>
 
     <div class="card-deck mb-3 text-center align-self-stretch">
 
@@ -97,7 +97,7 @@
 
         <div class="pricing-card card mb-4 shadow">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Hébergez vous même</h4>
+                <h4 class="my-0 font-weight-normal">Hébergez vous-même</h4>
             </div>
             <div class="card-body">
                 <h1 class="card-title pricing-card-title">0€ <small class="text-muted">/ mois</small></h1>
@@ -106,6 +106,7 @@
                     <li>Pas de version "freemium" ou d'édition "pro"</li>
                     <li><strong>Vous gérez tout vous même</strong></li>
                     <li>Licence GPL (open source)</li>
+                    <li><strong>Demande beaucoup de compétences techniques</strong></li>
                 </ul>
             </div>
 
@@ -153,7 +154,7 @@
                     <li>Votre Agora privée infogérée et <strong>un soutien substantiel au projet qui le pérennise : merci.</strong></li>
                     <li>Utilisez votre domaine ou sous-domaine</li>
                     <li><strong>Groupes et utilisateurs illimités</strong></li>
-                    <li>10Gb de stockage</li>
+                    <li>20Gb de stockage</li>
                     <li>Support par mail et téléphone</li>
                     <li><strong>Vous soutenez le projet en finançant 1 heure de développement chaque mois.</strong></li>
                 </ul>
