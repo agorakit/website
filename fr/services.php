@@ -1,4 +1,3 @@
-
 <?php include('header.php') ?>
 
 
@@ -8,126 +7,86 @@
 
 <div class="container my-5">
 
-    <h1 class="text-center mb-5" id="hebergement">Hébergement</h1>
+    <h1 class="text-center mb-5" id="hebergement">Une plateforme pour toutes et tous</h1>
+
+    <h2 class="text-center mb-4">Option 1 : Agora partagée (votre groupe est hébergé avec d’autres)</h2>
 
     <div class="card-deck mb-3 text-center align-self-stretch">
 
         <div class="pricing-card card mb-4 shadow">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Agora privé "small"</h4>
+                <h4 class="my-0 font-weight-normal">Tarif magique</h4>
             </div>
             <div class="card-body">
-                <h1 class="card-title pricing-card-title">20€ <small class="text-muted">/ mois</small></h1>
-                <ul class="list-unstyled mt-3 mb-4">
-                    <li>Votre propre instance privée</li>
-                    <li>Infogestion complète <br/>(mises à jour et maintenance)</li>
-                    <li>Utilisez votre domaine ou sous-domaine</li>
-                    <li>10 groupes</li>
-                    <li>50 utilisateurs</li>
-                    <li>1Gb de stockage</li>
-                    <li>Support par mail</li>
-                    <li>Accès au groupe d'aide et dévelopement</li>
-                </ul>
+
+                <h1 class="card-title pricing-card-title">0€ <small class="text-muted">/ mois</small></h1>
+                <p class="card-text">
+                    Si vous n’avez pas les moyens, utilisez gratuitement la plateforme partagée.
+                    L'hébergement est assuré gratuitement par <a href="https://alwaysdata.com" target="_blank">Alwaysdata</a> car Agorakit est un projet open source.
+                </p>
 
             </div>
 
-            <div class="card-footer">
-                <a href="https://forms.gle/ijQbTA13sxk1Gp9X8" type="button" class="btn btn-lg btn-block btn-primary">
-                    Demande en ligne
-                </a>
-            </div>
-
-        </div>
-
-        <div class="pricing-card card mb-4 shadow">
-            <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Agora privé "medium"</h4>
-            </div>
-            <div class="card-body">
-                <h1 class="card-title pricing-card-title">40€ <small class="text-muted">/ mois</small></h1>
-                <ul class="list-unstyled mt-3 mb-4">
-                    <li>Votre propre instance privée</li>
-                    <li>Infogestion complète <br/>(mises à jour et maintenance)</li>
-                    <li>Utilisez votre domaine ou sous-domaine</li>
-                    <li>25 groupes</li>
-                    <li>150 utilisateurs</li>
-                    <li>5Gb de stockage</li>
-                    <li>Support par mail et téléphone</li>
-                    <li>Accès au groupe d'aide et dévelopement</li>
-                </ul>
-
-            </div>
-
-            <div class="card-footer">
-                <a href="https://forms.gle/ijQbTA13sxk1Gp9X8" type="button" class="btn btn-lg btn-block btn-primary">
-                    Demande en ligne
-                </a>
-            </div>
-
-        </div>
-
-
-
-
-        <div class="pricing-card card mb-4 shadow">
-            <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Agora privé "large"</h4>
-            </div>
-            <div class="card-body">
-                <h1 class="card-title pricing-card-title">80€ <small class="text-muted">/ mois</small></h1>
-                <ul class="list-unstyled mt-3 mb-4">
-                    <li>Votre propre instance privée</li>
-                    <li>Infogestion complète <br/>(mises à jour et maintenance)</li>
-                    <li>Utilisez votre domaine ou sous-domaine</li>
-                    <li>Groupes illimités</li>
-                    <li>Utilisateurs illimités</li>
-                    <li>20Gb de stockage</li>
-                    <li>Support par mail et téléphone</li>
-                    <li>Vous dialoguez avec nous pour décider des prochaines fonctionalités</li>
-                    <li>Vous soutenez le projet en finançant 1 heure de développement chaque mois.</li>
-                </ul>
-
-            </div>
-            <div class="card-footer">
-                <a href="https://forms.gle/ijQbTA13sxk1Gp9X8" type="button" class="btn btn-lg btn-block btn-primary">
-                    Demande en ligne
-                </a>
-            </div>
-        </div>
-    </div>
-
-</div>
-
-
-<div class="container my-5 justify-content-center">
-
-    <h1 class="text-center mb-5">Autres options</h1>
-
-    <div class="card-deck mb-3 text-center align-self-stretch">
-
-
-        <div class="pricing-card card mb-4 shadow">
-            <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Agora partagé</h4>
-            </div>
-            <div class="card-body">
-                <h1 class="card-title pricing-card-title">Prix libre</h1>
-                <ul class="list-unstyled mt-3 mb-4">
-
-                    <li>Gratuit pour vos tests et les groupes citoyens sans but lucratif</li>
-                    <li>Instance partagée</li>
-                    <li>Pas de groupe secrets</li>
-                    <li>Maximum 3 mb par fichier</li>
-                    <li>Accès au groupe de développeurs</li>
-                    <li><a href="https://app.agorakit.org" target="_blank">https://app.agorakit.org</a></li>
-                </ul>
-
-            </div>
             <div class="card-footer">
                 <a href="https://app.agorakit.org" type="button" class="btn btn-lg btn-block btn-outline-primary" target="_blank">Inscrivez-vous gratuitement</a>
             </div>
 
         </div>
+
+        <div class="pricing-card card mb-4 shadow">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">Tarif normal</h4>
+            </div>
+            <div class="card-body">
+                <h1 class="card-title pricing-card-title">10€ <small class="text-muted">/ mois</small></h1>
+                <p class="card-text">
+                    Vous utilisez régulièrement la plateforme et votre groupe tourne bien? Votre participation aux frais est précieuse et permet de pérenniser le projet.</li>
+                </p>
+
+            </div>
+
+            <div class="card-footer">
+                <button class="btn btn-lg btn-block btn-primary"
+                id="shared_normal"
+                role="link">Paiement en ligne</button>
+            </div>
+
+        </div>
+
+
+
+
+        <div class="pricing-card card mb-4 shadow">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">Tarif de soutien</h4>
+            </div>
+            <div class="card-body">
+                <h1 class="card-title pricing-card-title">20€ <small class="text-muted">/ mois</small></h1>
+                <p class="card-text">
+                    Vous avez envie de soutenir activement le projet? Merci! C’est grâce aux gens comme vous que cette plateforme est accessible à tous.tes et évolue.
+                </p>
+
+            </div>
+            <div class="card-footer">
+                <button class="btn btn-lg btn-block btn-primary"
+                id="shared_sponsor"
+                role="link">Paiement en ligne</button>
+
+        </div>
+    </div>
+</div>
+
+</div>
+
+
+
+<div class="container my-5 justify-content-center">
+
+
+    <h2 class="text-center mb-5">Option 2 : Vous souhaitez une Agora dédiée uniquement à votre association, école, groupe citoyen, politique, etc...</h2>
+
+    <div class="card-deck mb-3 text-center align-self-stretch">
+
 
         <div class="pricing-card card mb-4 shadow">
             <div class="card-header">
@@ -151,25 +110,95 @@
 
         <div class="pricing-card card mb-4 shadow">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Développement</h4>
+                <h4 class="my-0 font-weight-normal">Tarif normal</h4>
             </div>
             <div class="card-body">
-                <h1 class="card-title pricing-card-title">60€ <small class="text-muted">/ heure</small></h1>
+                <h1 class="card-title pricing-card-title">40€ <small class="text-muted">/ mois</small></h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>Personalisation d'Agorakit</li>
-                    <li>Obtenez des conseils sur votre projet</li>
-                    <li>Demandez un devis</li>
-                    <li>Le résultat du travail est toujours open source</li>
+                    <li>Votre Agora privée</li>
+                    <li>Infogestion complète <br/>(mises à jour et maintenance)</li>
+                    <li>Utilisez votre domaine ou sous-domaine</li>
+                    <li>Groupes illimités</li>
+                    <li>Utilisateurs illimités</li>
+                    <li>10Gb de stockage</li>
+                    <li>Support par mail et téléphone</li>
+                    <li>Vous dialoguez avec nous pour décider des prochaines fonctionalités</li>
+                    <li>Vous soutenez le projet en finançant 1 heure de développement chaque mois.</li>
                 </ul>
+
             </div>
             <div class="card-footer">
-                <a href="mailto:info@agorakit.org" type="button" class="btn btn-lg btn-block btn-primary">Contactez-nous</a>
+                <a href="https://forms.gle/ijQbTA13sxk1Gp9X8" type="button" class="btn btn-lg btn-block btn-primary">
+                    Demande en ligne
+                </a>
             </div>
         </div>
 
+
+
+        <div class="pricing-card card mb-4 shadow">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">Tarif de soutien</h4>
+            </div>
+            <div class="card-body">
+                <h1 class="card-title pricing-card-title">80€ <small class="text-muted">/ mois</small></h1>
+                <ul class="list-unstyled mt-3 mb-4">
+                    <li>Votre Agora privée et un soutien substantiel au projet qui le pérennise : merci.</li>
+                    <li>Votre propre instance privée</li>
+                    <li>Infogestion complète <br/>(mises à jour et maintenance)</li>
+                    <li>Utilisez votre domaine ou sous-domaine</li>
+                    <li>Groupes illimités</li>
+                    <li>Utilisateurs illimités</li>
+                    <li>10Gb de stockage</li>
+                    <li>Support par mail et téléphone</li>
+                    <li>Vous dialoguez avec nous pour décider des prochaines fonctionalités</li>
+                    <li>Vous soutenez le projet en finançant 1 heure de développement chaque mois.</li>
+                </ul>
+
+            </div>
+            <div class="card-footer">
+                <a href="https://forms.gle/ijQbTA13sxk1Gp9X8" type="button" class="btn btn-lg btn-block btn-primary">
+                    Demande en ligne
+                </a>
+            </div>
+        </div>
     </div>
 
 </div>
 
+
+<!--
+<div class="pricing-card card mb-4 shadow">
+<div class="card-header">
+<h4 class="my-0 font-weight-normal">Développement</h4>
+</div>
+<div class="card-body">
+<h1 class="card-title pricing-card-title">60€ <small class="text-muted">/ heure</small></h1>
+<ul class="list-unstyled mt-3 mb-4">
+<li>Personalisation d'Agorakit</li>
+<li>Obtenez des conseils sur votre projet</li>
+<li>Demandez un devis</li>
+<li>Le résultat du travail est toujours open source</li>
+</ul>
+</div>
+<div class="card-footer">
+<a href="mailto:info@agorakit.org" type="button" class="btn btn-lg btn-block btn-primary">Contactez-nous</a>
+</div>
+</div>
+
+</div>
+
+</div>
+-->
+
+<!-- Load Stripe.js on your website. -->
+<script src="https://js.stripe.com/v3"></script>
+
+
+<!-- load the stripe config for this page-->
+<script src="stripe.js"></script>
+
+
+<div id="error-message"></div>
 
 <?php include('footer.php') ?>
