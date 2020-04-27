@@ -22,7 +22,7 @@
                 <h1 class="card-title pricing-card-title">0€ <small class="text-muted">/ mois</small></h1>
                 <p class="card-text">
                     Si vous n’avez pas les moyens, utilisez gratuitement la plateforme partagée.
-                    L'hébergement est assuré gratuitement par <a href="https://alwaysdata.com" target="_blank">Alwaysdata</a> car Agorakit est un projet open source.
+                    L'hébergement est assuré gratuitement par <a href="https://alwaysdata.com" target="_blank">Alwaysdata</a> en tant que sponsor de projets open source.
                 </p>
 
             </div>
