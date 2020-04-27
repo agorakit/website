@@ -118,8 +118,7 @@
                     <li>Votre Agora privée</li>
                     <li>Infogestion complète <br/>(mises à jour et maintenance)</li>
                     <li>Utilisez votre domaine ou sous-domaine</li>
-                    <li>Groupes illimités</li>
-                    <li>Utilisateurs illimités</li>
+                    <li>Groupes et utilisateurs illimités</li>
                     <li>10Gb de stockage</li>
                     <li>Support par mail et téléphone</li>
                     <li>Vous dialoguez avec nous pour décider des prochaines fonctionalités</li>
@@ -128,9 +127,9 @@
 
             </div>
             <div class="card-footer">
-                <a href="https://forms.gle/ijQbTA13sxk1Gp9X8" type="button" class="btn btn-lg btn-block btn-primary">
-                    Demande en ligne
-                </a>
+                <button class="btn btn-lg btn-block btn-primary"
+                id="dedicated_normal"
+                role="link">Paiement en ligne</button>
             </div>
         </div>
 
@@ -144,11 +143,9 @@
                 <h1 class="card-title pricing-card-title">80€ <small class="text-muted">/ mois</small></h1>
                 <ul class="list-unstyled mt-3 mb-4">
                     <li>Votre Agora privée et un soutien substantiel au projet qui le pérennise : merci.</li>
-                    <li>Votre propre instance privée</li>
                     <li>Infogestion complète <br/>(mises à jour et maintenance)</li>
                     <li>Utilisez votre domaine ou sous-domaine</li>
-                    <li>Groupes illimités</li>
-                    <li>Utilisateurs illimités</li>
+                    <li>Groupes et utilisateurs illimités</li>
                     <li>10Gb de stockage</li>
                     <li>Support par mail et téléphone</li>
                     <li>Vous dialoguez avec nous pour décider des prochaines fonctionalités</li>
@@ -157,39 +154,15 @@
 
             </div>
             <div class="card-footer">
-                <a href="https://forms.gle/ijQbTA13sxk1Gp9X8" type="button" class="btn btn-lg btn-block btn-primary">
-                    Demande en ligne
-                </a>
+                <button class="btn btn-lg btn-block btn-primary"
+                id="dedicated_sponsor"
+                role="link">Paiement en ligne</button>
             </div>
         </div>
     </div>
 
 </div>
 
-
-<!--
-<div class="pricing-card card mb-4 shadow">
-<div class="card-header">
-<h4 class="my-0 font-weight-normal">Développement</h4>
-</div>
-<div class="card-body">
-<h1 class="card-title pricing-card-title">60€ <small class="text-muted">/ heure</small></h1>
-<ul class="list-unstyled mt-3 mb-4">
-<li>Personalisation d'Agorakit</li>
-<li>Obtenez des conseils sur votre projet</li>
-<li>Demandez un devis</li>
-<li>Le résultat du travail est toujours open source</li>
-</ul>
-</div>
-<div class="card-footer">
-<a href="mailto:info@agorakit.org" type="button" class="btn btn-lg btn-block btn-primary">Contactez-nous</a>
-</div>
-</div>
-
-</div>
-
-</div>
--->
 
 <!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3"></script>
@@ -199,6 +172,6 @@
 <script src="stripe.js"></script>
 
 
-<div id="error-message"></div>
+<div id="error-message" style="display: none">Une erreur est survenue. <a href="mailto:info@agorakit.org">Merci de nous contacter</a> si vous avez rencontré un problème avec votre commande. Votre carte n'a pas été débitée.</div>
 
 <?php include('footer.php') ?>
