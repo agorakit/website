@@ -10,7 +10,7 @@ body
 
 .navbar
 {
-    background-color: #0d475c !important;
+    background-color: #1a3a45 !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -33,7 +33,8 @@ h1, h2, h3, h4
     font-family: 'Nunito', sans-serif;
     font-family: 'Noto Serif';
     font-weight:800;
-    color: #3f382a;
+    /*color: #3f382a;*/
+    color: #1a3a45;
 }
 
 h2.sub
@@ -88,7 +89,7 @@ h4
 .pricing-card .card-header
 {
     /*background-color: #319ede;*/
-    background-color: #0d475c;
+    background-color: #1a3a45;
     color: white;
 
 }
