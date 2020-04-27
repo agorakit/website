@@ -63,7 +63,7 @@
             <div class="card-body">
                 <h1 class="card-title pricing-card-title">20€ <small class="text-muted">/ mois</small></h1>
                 <p class="card-text">
-                    Vous avez envie de soutenir activement le projet? Merci! C’est grâce aux gens comme vous que cette plateforme est accessible à tous.tes et évolue.
+                    Vous avez envie de soutenir activement le projet? Merci! C’est grâce aux gens comme vous que cette plateforme est accessible à tou.te.s et évolue.
                 </p>
 
             </div>
@@ -118,16 +118,15 @@
                     <li>Votre Agora privée</li>
                     <li>Infogestion complète <br/>(mises à jour et maintenance)</li>
                     <li>Utilisez votre domaine ou sous-domaine</li>
-                    <li>Groupes et utilisateurs illimités</li>
+                    <li><strong>Groupes et utilisateurs illimités</strong></li>
                     <li>10Gb de stockage</li>
                     <li>Support par mail et téléphone</li>
-                    <li>Vous dialoguez avec nous pour décider des prochaines fonctionalités</li>
-                    <li>Vous soutenez le projet en finançant 1 heure de développement chaque mois.</li>
                 </ul>
 
             </div>
             <div class="card-footer">
-                <button class="btn btn-lg btn-block btn-primary"
+                30 jours d'essai gratuit
+                <button class="btn btn-lg btn-block btn-primary mt-2"
                 id="dedicated_normal"
                 role="link">Paiement en ligne</button>
             </div>
@@ -142,19 +141,20 @@
             <div class="card-body">
                 <h1 class="card-title pricing-card-title">80€ <small class="text-muted">/ mois</small></h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>Votre Agora privée et un soutien substantiel au projet qui le pérennise : merci.</li>
+                    <li>Votre Agora privée et <strong>un soutien substantiel au projet qui le pérennise : merci.</strong></li>
                     <li>Infogestion complète <br/>(mises à jour et maintenance)</li>
                     <li>Utilisez votre domaine ou sous-domaine</li>
-                    <li>Groupes et utilisateurs illimités</li>
+                    <li><strong>Groupes et utilisateurs illimités</strong></li>
                     <li>10Gb de stockage</li>
                     <li>Support par mail et téléphone</li>
                     <li>Vous dialoguez avec nous pour décider des prochaines fonctionalités</li>
-                    <li>Vous soutenez le projet en finançant 1 heure de développement chaque mois.</li>
+                    <li><strong>Vous soutenez le projet en finançant 1 heure de développement chaque mois.</strong></li>
                 </ul>
 
             </div>
             <div class="card-footer">
-                <button class="btn btn-lg btn-block btn-primary"
+                30 jours d'essai gratuit
+                <button class="btn btn-lg btn-block btn-primary mt-2"
                 id="dedicated_sponsor"
                 role="link">Paiement en ligne</button>
             </div>
