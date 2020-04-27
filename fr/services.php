@@ -9,7 +9,7 @@
 
     <h1 class="text-center mb-4" id="hebergement">Une plateforme pour toutes et tous</h1>
 
-    <h2 class="text-center mb-5">Option 1 : Agora partagée (votre groupe est hébergé avec d’autres)</h2>
+    <h2 class="sub text-center mb-5">Option 1 : Agora partagée (votre groupe est hébergé avec d’autres)</h2>
 
     <div class="card-deck mb-3 text-center align-self-stretch">
 
@@ -90,7 +90,7 @@
 <div class="container my-5 justify-content-center">
 
 
-    <h2 class="text-center mb-5">Option 2 : Vous souhaitez une Agora dédiée uniquement à votre association, école, groupe citoyen, politique, etc...</h2>
+    <h2 class="sub text-center mb-5">Option 2 : Vous souhaitez une Agora dédiée uniquement à votre association, école, groupe citoyen, politique, etc...</h2>
 
     <div class="card-deck mb-3 text-center align-self-stretch">
 

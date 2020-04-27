@@ -3,8 +3,9 @@
 body
 {
     font-family: 'Heebo', sans-serif;
-    background-color: #eeeae1;
+    background-color: #f6f3ee;
     font-weight: 400;
+    color: #7f5c5c;
 }
 
 .navbar
@@ -31,20 +32,25 @@ h1, h2, h3, h4
 {
     font-family: 'Nunito', sans-serif;
     font-family: 'Noto Serif';
-
     font-weight:800;
-    /*color: #0c4f6b;*/
+    color: #3f382a;
 }
 
-h2
+h2.sub
 {
-    color: #39352d;
+    color: #735a59;
 }
+
+h4
+{
+    color: #735a59;
+}
+
 
 .big
 {
     font-size: 1.5em;
-    color: rgb(71, 78, 82);
+    /*color: rgb(71, 78, 82);*/
     line-height: 1.2em;
 }
 
@@ -56,6 +62,7 @@ h2
 .card-header h4
 {
     font-size: 1.8em;
+    color: white;
 }
 
 .pricing-card li
