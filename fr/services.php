@@ -40,12 +40,15 @@
             <div class="card-body">
                 <h1 class="card-title pricing-card-title">10€ <small class="text-muted">/ mois</small></h1>
                 <p class="card-text">
-                    Vous utilisez régulièrement la plateforme et votre groupe tourne bien? Votre participation aux frais est précieuse et permet de pérenniser le projet.</li>
+                    Vous utilisez régulièrement la plateforme et votre groupe tourne bien? Votre participation aux frais est précieuse et permet de pérenniser le projet.
                 </p>
+
 
             </div>
 
             <div class="card-footer">
+                <p class="small">Paiement sécurisé par <a target="_blank" href="https://stripe.com/">Stripe</a>. Vous interrompez quand vous voulez.
+                </p>
                 <button class="btn btn-lg btn-block btn-primary"
                 id="shared_normal"
                 role="link">Paiement en ligne</button>
@@ -66,15 +69,19 @@
                     Vous avez envie de soutenir activement le projet? Merci! C’est grâce aux gens comme vous que cette plateforme est accessible à tou.te.s et évolue.
                 </p>
 
+
+
             </div>
             <div class="card-footer">
+                <p class="small">Paiement sécurisé par <a target="_blank" href="https://stripe.com/">Stripe</a>. Vous interrompez quand vous voulez.
+                </p>
                 <button class="btn btn-lg btn-block btn-primary"
                 id="shared_sponsor"
                 role="link">Paiement en ligne</button>
 
+            </div>
         </div>
     </div>
-</div>
 
 </div>
 
@@ -115,17 +122,19 @@
             <div class="card-body">
                 <h1 class="card-title pricing-card-title">40€ <small class="text-muted">/ mois</small></h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>Votre Agora privée</li>
-                    <li>Infogestion complète <br/>(mises à jour et maintenance)</li>
+                    <li>Votre Agora privée infogérée</li>
                     <li>Utilisez votre domaine ou sous-domaine</li>
                     <li><strong>Groupes et utilisateurs illimités</strong></li>
                     <li>10Gb de stockage</li>
                     <li>Support par mail et téléphone</li>
                 </ul>
 
+
+
             </div>
             <div class="card-footer">
-                30 jours d'essai gratuit
+                <p class="small">Paiement sécurisé par <a target="_blank" href="https://stripe.com/">Stripe</a>. Vous interrompez quand vous voulez. <strong>30 jours d'essai gratuits.</strong>
+                </p>
                 <button class="btn btn-lg btn-block btn-primary mt-2"
                 id="dedicated_normal"
                 role="link">Paiement en ligne</button>
@@ -141,19 +150,20 @@
             <div class="card-body">
                 <h1 class="card-title pricing-card-title">80€ <small class="text-muted">/ mois</small></h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>Votre Agora privée et <strong>un soutien substantiel au projet qui le pérennise : merci.</strong></li>
-                    <li>Infogestion complète <br/>(mises à jour et maintenance)</li>
+                    <li>Votre Agora privée infogérée et <strong>un soutien substantiel au projet qui le pérennise : merci.</strong></li>
                     <li>Utilisez votre domaine ou sous-domaine</li>
                     <li><strong>Groupes et utilisateurs illimités</strong></li>
                     <li>10Gb de stockage</li>
                     <li>Support par mail et téléphone</li>
-                    <li>Vous dialoguez avec nous pour décider des prochaines fonctionalités</li>
                     <li><strong>Vous soutenez le projet en finançant 1 heure de développement chaque mois.</strong></li>
                 </ul>
 
+
+
             </div>
             <div class="card-footer">
-                30 jours d'essai gratuit
+                <p class="small">Paiement sécurisé par <a target="_blank" href="https://stripe.com/">Stripe</a>. Vous interrompez quand vous voulez. <strong>30 jours d'essai gratuits.</strong>
+                </p>
                 <button class="btn btn-lg btn-block btn-primary mt-2"
                 id="dedicated_sponsor"
                 role="link">Paiement en ligne</button>
