@@ -10,7 +10,7 @@
     <div class="row">
         <div class="col-md-7">
 
-            <h1 class="text-center mb-4">Une plateforme pour toutes et tous</h1>
+            <h1 class="text-center mb-4">Une plateforme pour toutes et tous.</h1>
 
             <h2 class="sub text-center mb-5">Envie de soutenir Agorakit? C'est ici !</h2>
 
@@ -37,7 +37,7 @@
         <div class="col-md-5">
             <div class="d-flex justify-content-center">
                 <script src="https://donorbox.org/widget.js" paypalExpress="true"></script>
-                <iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/soutenir-agorakit?default_interval=m" style="max-width: 500px; min-width: 310px; max-height:none!important" width="100%">
+                <iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/soutenir-agorakit?default_interval=m" style="max-width: 420px; min-width: 310px; max-height:none!important" width="100%" class="shadow">
                 </iframe>
             </div>
         </div>
@@ -70,7 +70,10 @@
             <h2 class="mt-5">Je pensais que les logiciels libres étaient gratuits !?</h2>
 
             <p>
-                Un logiciel libre (open source) tel que Agorakit est en effet gratuit à télécharger et à installer. <br/>Par contre, le développement, la maintenance et le support technique coûtent de l'argent (ou plutôt beaucoup de temps majoritairement non rémunéré :-) ).
+                Un logiciel libre (open source) tel que Agorakit est en effet gratuit à télécharger et à installer.
+            </p>
+            <p>
+                Par contre, le développement, la maintenance et le support technique coûtent de l'argent (ou plutôt beaucoup de temps majoritairement non rémunéré :-) ).
             </p>
             <p>
                 En faisant un don, vous soutenez le projet et permettez au développeur de dégager du temps pour améliorer le logiciel et en faire profiter tout le monde.
