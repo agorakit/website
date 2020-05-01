@@ -7,11 +7,11 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav mr-auto">
             <a class="nav-item nav-link" href="./soutenir.php">
-                <i class="fas fa-database"></i> Soutenir le projet
+                <i class="fas fa-heart"></i> Soutenir le projet
             </a>
 
             <a class="nav-item nav-link" href="https://app.agorakit.org" target="_blank">
-                <i class="fas fa-server"></i> Utiliser l'Agora partagée
+                <i class="fas fa-users"></i> Utiliser l'Agora partagée
             </a>
 
             <a class="nav-item nav-link mr-auto" href="https://docs.agorakit.org" target="_blank">
