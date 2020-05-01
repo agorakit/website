@@ -20,17 +20,18 @@ body
 
 h1
 {
-    font-size: 3.8em;
+    font-size: 3.2em;
 }
 
+/*
 nav
 {
     font-family: 'Noto Serif';
 }
+*/
 
 h1, h2, h3, h4
 {
-    font-family: 'Nunito', sans-serif;
     font-family: 'Noto Serif';
     font-weight:800;
     /*color: #3f382a;*/
@@ -50,7 +51,7 @@ h4
 
 .big
 {
-    font-size: 1.5em;
+    font-size: 1.3em;
     /*color: rgb(71, 78, 82);*/
     line-height: 1.2em;
 }
@@ -126,7 +127,7 @@ h4
 
     h1
     {
-        font-size: 3em;
+        font-size: 2.8em;
     }
 
     h2

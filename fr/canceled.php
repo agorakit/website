@@ -4,10 +4,10 @@
 
 
 <div class="container my-5">
-  <h1>Commande annulée</h1>
+  <h1>Transaction annullée</h1>
   <p>
-    Vous avez annulé votre commande, n'hésitez pas
-    à retourner sur la page "services" pour consulter les différentes options disponibles.
+    Vous avez annulé votre paiement, n'hésitez pas
+    à consulter la nabigation pour voir les différentes options disponibles.
   </p>
 
 </div>

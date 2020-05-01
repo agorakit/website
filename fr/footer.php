@@ -1,5 +1,5 @@
 
-<footer>
+<footer class="mt-5">
     <div class="container centered">
         <small>Fabriqué avec soin en Belgique</small>
     </div>
