@@ -10,6 +10,10 @@
                 <i class="fas fa-heart"></i> Soutenir le projet
             </a>
 
+            <a class="nav-item nav-link" href="./services.php">
+                <i class="fas fa-server"></i> Hébergement sur mesure
+            </a>
+
             <a class="nav-item nav-link" href="https://app.agorakit.org" target="_blank">
                 <i class="fas fa-users"></i> Utiliser l'Agora partagée
             </a>
