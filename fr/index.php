@@ -3,16 +3,34 @@
 <?php include('nav.php') ?>
 
 
+
+
+
+<div>
+    <div class="container pt-5" >
+        <div class="row">
+            <div class="col-md-5">
+                <img src="../images/agorakit-logo.svg" class="img-fluid" style="width: 50%" />
+
+                <h2>Logiciel d'organisation pour collectifs simple et gratuit.</h2>
+
+            </div>
+            <div class="col-md-7">
+                <img src="../images/groups.png" class="img-fluid shadow"/>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div style="background-color: #fff; box-shadow: 0 .5rem 1rem rgba(0,0,0,.03)">
     <div class="container pt-5 agorakit-intro" >
-        <!-- Example row of columns -->
         <div class="row">
             <div class="col-md-6 agorakit-logo">
                 <img src="../images/agorakit-logo.svg" class="img-responsive" style="width: 100%" />
 
             </div>
             <div class="col-md-6">
-                <img src="../images/agorakit-fireplace.jpg" class="img-fluid" style="box-shadow: none; border: 0" />
+                <img src="../images/agorakit-fireplace.jpg" class="img-fluid"/>
             </div>
         </div>
     </div>
