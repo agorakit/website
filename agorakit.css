@@ -3,7 +3,7 @@
 body
 {
     font-family: 'Heebo', sans-serif;
-    background-color: #f6f3ee;
+    /*background-color: #f6f3ee;*/
     font-weight: 400;
     color: #7f5c5c;
 }
@@ -48,6 +48,13 @@ h4
     color: #735a59;
 }
 
+.big-button, .big-button:hover
+{
+    border-radius: 4rem;
+    background-color: #735a59;
+    color: white;
+    padding: 1rem 2rem;
+}
 
 .big
 {

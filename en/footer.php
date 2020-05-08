@@ -1,7 +1,7 @@
 
 <footer>
     <div class="container centered">
-        <small>Made with lov in Belgium</small>
+        <small>Made with <i class="fas fa-heart"></i> in Belgium</small>
     </div>
 </footer>
 

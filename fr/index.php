@@ -3,17 +3,16 @@
 <?php include('nav.php') ?>
 
 
-<div style="background-color: #fff; box-shadow: 0 .5rem 1rem rgba(0,0,0,.03)">
-    <div class="container pt-5 agorakit-intro" >
-        <!-- Example row of columns -->
-        <div class="row">
-            <div class="col-md-6 agorakit-logo">
-                <img src="../images/agorakit-logo.svg" class="img-responsive" style="width: 100%" />
 
-            </div>
-            <div class="col-md-6">
-                <img src="../images/agorakit-fireplace.jpg" class="img-fluid" style="box-shadow: none; border: 0" />
-            </div>
+
+<div class="container pt-5 agorakit-intro" >
+    <div class="row">
+        <div class="col-md-6 agorakit-logo">
+            <img src="../images/agorakit-logo.svg" class="img-responsive" style="width: 100%" />
+
+        </div>
+        <div class="col-md-6">
+            <img src="../images/agorakit-fireplace.jpg" class="img-fluid"/>
         </div>
     </div>
 </div>
@@ -182,7 +181,7 @@
             nous vous proposons de gérer pour vous l'installation, l'hébergement et la maintenance d'Agorakit à un tarif très abordable.
             <br />
             <strong>
-                <a href="./services.php">Consultez nos packages</a> pour plus d'informations</a>
+                <a href="./services.php">Découvrez nos services</a> pour plus d'informations</a>
             </strong>.
         </p>
 
