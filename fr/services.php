@@ -42,11 +42,6 @@
             Oui, il vous suffit de nous contacter.
         </p>
 
-        <h2 class="mt-5">Pourquoi proposez-vous plusieurs tarifs pour le même service ?</h2>
-
-        <p class="big">
-            Parceque certains groupes ont des moyens très limités et que d'autres peuvent se permettre de soutenir activement un projet tel que Agorakit. Nous laissons le libre choix à chacun de payer ce qui est possible afin d'aider le plus grand nombre de groupes.
-        </p>
 
 
         <h2 class="mt-5">Je pensais que les logiciels libres étaient gratuits !?</h2>
@@ -73,26 +68,6 @@
         </p>
 
 
-        <h2 class="mt-5">Le nombre de groupes et d'utilisateurs est il vraiment illimité?</h2>
-
-        <p class="big">
-            Un service hébergé est toujours un moment confronté à des limites. Dans le cas de votre hébergement, c'est principalement l'espace de stockage qui est une limite concrète.
-            <br/> <br/> Pour vous donner une idée: sur l'Agora partagée il y a plusieurs milliers d'utilisateurs et de groupes sans ralentissements et en restant largement en dessous des limites de stockage.
-            <br/> <br/> Si vous pensez que votre projet est vraiment hors norme au niveau de son utilisation des ressources contactez-nous afin de valider une solution technique pertinente.
-        </p>
-
     </div>
-
-
-
-    <!-- Load Stripe.js on your website. -->
-    <script src="https://js.stripe.com/v3"></script>
-
-
-    <!-- load the stripe config for this page-->
-    <script src="stripe.js"></script>
-
-
-    <div id="error-message" style="display: none">Une erreur est survenue. <a href="mailto:info@agorakit.org">Merci de nous contacter</a> si vous avez rencontré un problème avec votre commande. Votre carte n'a pas été débitée.</div>
 
     <?php include('footer.php') ?>
