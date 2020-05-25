@@ -22,6 +22,10 @@
                 <i class="fas fa-book"></i> Documentation
             </a>
 
+            <a class="nav-item nav-link mr-auto" href="./sondage.php" target="_blank">
+                <i class="fas fa-poll"></i> Participer au sondage
+            </a>
+
         </div>
         <div class="navbar-nav">
             <a class="nav-item nav-link" href="https://github.com/agorakit/agorakit" target="_blank">
