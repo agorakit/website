@@ -28,7 +28,7 @@
 
         </div>
         <div class="navbar-nav">
-            <a class="nav-item nav-link" href="https://github.com/agorakit/agorakit" target="_blank">
+            <a class="nav-item nav-link" href="https://github.com/agorakit/agorakit">
                 <i class="fab fa-github"></i> Github
             </a>
 
