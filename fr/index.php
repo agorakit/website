@@ -1,25 +1,23 @@
-
 <?php include('header.php') ?>
 <?php include('nav.php') ?>
 
 
 
 
-<div class="container pt-5 agorakit-intro" >
-    <div class="row">
-        <div class="col-md-6 agorakit-logo">
-            <img src="../images/agorakit-logo.svg" class="img-responsive" style="width: 100%" />
-
-        </div>
-        <div class="col-md-6">
-            <img src="../images/agorakit-fireplace.jpg" class="img-fluid"/>
-        </div>
+<div class="container pt-5">
+    <div>
+        <img src="../images/agorakit-fireplace.jpg" class="img-fluid" />
     </div>
+
+    <div>
+        <img src="../images/agorakit-logo.svg" class="img-responsive" style="width: 25%" />
+    </div>
+
 </div>
 
 <div class="container mt-5">
     <!--<h1>Un système simple de collaboration</h1>-->
-    <h1 class="mb-4">Collaborer ensemble,<br/>simplement.</h1>
+    <h1 class="mb-4">Collaborer ensemble,<br />simplement.</h1>
     <!--<h1 class="mb-4">Un espace chaleureux pour vos groupes</h1>-->
     <div class="col-md-9 ml-0 pl-0">
         <p class="big">
@@ -130,7 +128,7 @@
                 Evitez de recevoir un mail à chaque nouvelle intervention dans les groupes que vous suivez.
                 <br />Chacun décide de la fréquence des notifications qu'il recevra par mail, pour chaque groupe dont il est membre.
                 Ceci évite le problème des mailing list qui encombrent les boîtes mail et découragent les participants.
-                <br/>
+                <br />
                 A l'inverse, les personnes qui préfèrent utiliser le mail peuvent interragir directement par mail pour lancer des discussions ou répondre aux discussions existantes.
             </p>
         </div>
@@ -163,7 +161,7 @@
     <div class="col-md-7 ml-0 pl-0">
         <h2>Qui utilise Agorakit ?</h2>
         <p>Agorakit est utilisé depuis 2015 par plusieurs mouvements d'envergure,
-            tels que <a href="https://agora.reseautransition.be/" target="_blank">le Réseau Transition</a>, <a href="https://participer.toutautrechose.be"  target="_blank">Tout autre chose</a> et <a href="http://deelnemen.hartbovenhard.be"  target="_blank">Hart Boven Hard</a>.
+            tels que <a href="https://agora.reseautransition.be/" target="_blank">le Réseau Transition</a>, <a href="https://participer.toutautrechose.be" target="_blank">Tout autre chose</a> et <a href="http://deelnemen.hartbovenhard.be" target="_blank">Hart Boven Hard</a>.
             <strong>Des milliers d'associations, d'écoles, de groupes informels l'utilisent également à travers le monde sur l'Agora partagée.</strong>
         </p>
 

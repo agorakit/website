@@ -6,12 +6,12 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav mr-auto">
-            <a class="nav-item nav-link" href="./soutenir.php">
+            <a class="nav-item nav-link" href="soutenir.php">
                 <i class="fas fa-heart"></i> Soutenir le projet
             </a>
 
-            <a class="nav-item nav-link" href="./services.php">
-                <i class="fas fa-server"></i> Hébergement sur mesure
+            <a class="nav-item nav-link" href="tarifs.php">
+                <i class="fas fa-server"></i> Tarif
             </a>
 
             <a class="nav-item nav-link" href="https://app.agorakit.org" target="_blank">
@@ -22,8 +22,8 @@
                 <i class="fas fa-book"></i> Documentation
             </a>
 
-            <a class="nav-item nav-link mr-auto" href="./sondage.php">
-                <i class="fas fa-poll"></i> Participer au sondage
+            <a class="nav-item nav-link mr-auto" href="sondage.php">
+                <i class="fas fa-poll"></i> Votre avis
             </a>
 
         </div>
