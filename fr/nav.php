@@ -6,11 +6,11 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav mr-auto">
-            <a class="nav-item nav-link" href="soutenir.php">
+            <a class="nav-item nav-link" href="./soutenir.php">
                 <i class="fas fa-heart"></i> Soutenir le projet
             </a>
 
-            <a class="nav-item nav-link" href="tarifs.php">
+            <a class="nav-item nav-link" href="./tarifs.php">
                 Tarif
             </a>
 
@@ -20,7 +20,7 @@
                Documentation
             </a>
 
-            <a class="nav-item nav-link mr-auto" href="sondage.php">
+            <a class="nav-item nav-link mr-auto" href="./sondage.php">
                 Votre avis
             </a>
 
