@@ -5,32 +5,34 @@
 
 
 <div class="container pt-5 centered">
-    
-        <img src="../images/agorakit-fireplace.jpg" class="w-100" style="max-width: 900px" />
-    
+
+    <img src="../images/agorakit-fireplace.jpg" class="w-100" style="max-width: 900px" />
+
 </div>
 
 <div class="container mt-5 centered">
     <!--<h1>Un système simple de collaboration</h1>-->
     <h1 class="mb-4">Votre collectif mérite de meilleurs outils.</h1>
     <!--<h1 class="mb-4">Un espace chaleureux pour vos groupes</h1>-->
-    
-        <p class="big">
-            Agorakit est un logiciel collaboratif qui permet de <strong>travailler en groupe</strong>.
-        </p>
+</div>
 
-        <p class="big">
+<div class="container mt-5">
+    <p class="big">
+        Agorakit est un logiciel collaboratif qui permet de <strong>travailler en groupe</strong>.
+    </p>
 
-            En créant des groupes, les participants peuvent discuter, fixer des dates, partager des documents et <strong>tenir tout le monde à jour</strong>.
-        </p>
-        <p class="big">
-            Agorakit est un forum, un calendrier, un gestionnaire de fichiers, un outil de cartographie et de notification par email.
-        </p>
+    <p class="big">
 
-        <p class="big">
-            Agorakit est un logiciel libre <strong>en constante évolution</strong>.
-        </p>
-   
+        En créant des groupes, les participants peuvent discuter, fixer des dates, partager des documents et <strong>tenir tout le monde à jour</strong>.
+    </p>
+    <p class="big">
+        Agorakit est un forum, un calendrier, un gestionnaire de fichiers, un outil de cartographie et de notification par email.
+    </p>
+
+    <p class="big">
+        Agorakit est un logiciel libre <strong>en constante évolution</strong>.
+    </p>
+
 
 </div>
 
