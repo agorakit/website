@@ -6,7 +6,7 @@ body
     font-family: 'Heebo', sans-serif;
     /*background-color: #f6f3ee;*/
     font-weight: 400;
-    color: #7f5c5c;
+    color: #49433c;
 }
 
 .navbar
@@ -41,25 +41,25 @@ h1, h2, h3, h4
 
 h2.sub
 {
-    color: #735a59;
+    color: #49433c;
 }
 
 h4
 {
-    color: #735a59;
+    color: #49433c;
 }
 
 .big-button, .big-button:hover
 {
     border-radius: 4rem;
-    background-color: #735a59;
+    background-color: #49433c;
     color: white;
     padding: 1rem 2rem;
 }
 
 .big
 {
-    font-size: 1.3em;
+    font-size: 1.2em;
     /*color: rgb(71, 78, 82);*/
     line-height: 1.2em;
 }

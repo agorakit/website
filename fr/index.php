@@ -4,22 +4,17 @@
 
 
 
-<div class="container pt-5">
-    <div>
-        <img src="../images/agorakit-fireplace.jpg" class="img-fluid" />
-    </div>
-
-    <div>
-        <img src="../images/agorakit-logo.svg" class="img-responsive" style="width: 25%" />
-    </div>
-
+<div class="container pt-5 centered">
+    
+        <img src="../images/agorakit-fireplace.jpg" class="w-100" style="max-width: 900px" />
+    
 </div>
 
-<div class="container mt-5">
+<div class="container mt-5 centered">
     <!--<h1>Un système simple de collaboration</h1>-->
-    <h1 class="mb-4">Collaborer ensemble,<br />simplement.</h1>
+    <h1 class="mb-4">Votre collectif mérite de meilleurs outils.</h1>
     <!--<h1 class="mb-4">Un espace chaleureux pour vos groupes</h1>-->
-    <div class="col-md-9 ml-0 pl-0">
+    
         <p class="big">
             Agorakit est un logiciel collaboratif qui permet de <strong>travailler en groupe</strong>.
         </p>
@@ -35,7 +30,7 @@
         <p class="big">
             Agorakit est un logiciel libre <strong>en constante évolution</strong>.
         </p>
-    </div>
+   
 
 </div>
 
@@ -169,7 +164,7 @@
         <p>
             Agorakit est un outil open source (logiciel libre).
             Il peut être librement modifié et installé gratuitement par tous.
-            La licence (GPL) impose à tout le monde de partager les améliorations faites au projet.
+            La licence (AGPL) impose à tout le monde de partager les améliorations faites au projet.
             <strong>Cela garantit une mutualisation des efforts et la pérénité du projet.</strong>
         </p>
 
@@ -179,7 +174,7 @@
             nous vous proposons de gérer pour vous l'installation, l'hébergement et la maintenance d'Agorakit à un tarif très abordable.
             <br />
             <strong>
-                <a href="./services.php">Découvrez nos services</a> pour plus d'informations</a>
+                <a href="./tarifs.php">Découvrez nos services</a> pour plus d'informations</a>
             </strong>.
         </p>
 

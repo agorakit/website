@@ -11,19 +11,17 @@
             </a>
 
             <a class="nav-item nav-link" href="tarifs.php">
-                <i class="fas fa-server"></i> Tarif
+                Tarif
             </a>
 
-            <a class="nav-item nav-link" href="https://app.agorakit.org" target="_blank">
-                <i class="fas fa-users"></i> Utiliser l'Agora partagée
-            </a>
+           
 
             <a class="nav-item nav-link mr-auto" href="https://docs.agorakit.org" target="_blank">
-                <i class="fas fa-book"></i> Documentation
+               Documentation
             </a>
 
             <a class="nav-item nav-link mr-auto" href="sondage.php">
-                <i class="fas fa-poll"></i> Votre avis
+                Votre avis
             </a>
 
         </div>
@@ -34,6 +32,10 @@
 
             <a class="nav-item nav-link" href="../en/">
                 English version
+            </a>
+
+            <a class="nav-item nav-link btn btn-secondary" href="https://app.agorakit.org" target="_blank">
+                <i class="fas fa-users"></i> Connexion
             </a>
 
         </div>
