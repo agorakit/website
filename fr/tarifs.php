@@ -13,25 +13,26 @@
         <h1 class="text-center mb-4">Des formules pour toutes et tous.</h1>
 
 
-        <h2 class="sub text-center mb-5">Agora partagée à prix libre</h2>
+        <h2 class="sub text-center mb-5">1. Agora partagée à prix libre.</h2>
 
-        <p>Vous pouvez utiliser à prix libre l’instance partagée sur <a href="https://app.agorakit.org">https://app.agorakit.org</a> </p>
+        <p>Vous pouvez utiliser à prix libre le serveur partagé sur <a href="https://app.agorakit.org">https://app.agorakit.org</a> </p>
 
-        <p>Cette instance est à prix libre mais a des limitations : </p>
+        <p>Ce serveur est à prix libre mais présente quelques limitations : </p>
         <ul>
-            <li>La taille des fichiers que l’on peut poster est de 3 méga maximum
-            <li>Il est impossible de créer des groupes secrets
-            <li>Les groupes partagent un même serveur
-            <li>A part cela, elle est totalement fonctionnelle. Le projet fonctionne grâce aux dons et au bénévolat.
-            <li>Utilisez aussi ce serveur pour faire vos tests et voir si Agorakit correspond à vos besoins
+            <li>La taille des fichiers que l’on peut poster est de 3 mégas maximum.
+            <li>Il est impossible de créer des groupes secrets.
+            <li>Les groupes partagent un même serveur.
         </ul>
+
+        <p>A part ces quelques limitations, ce serveur est totalement fonctionnel. Le projet fonctionne grâce aux dons et au bénévolat.</p>
+        
 
         <h3 class="sub text-center mt-5 mb-5">
             <a class="big-button" href="https://app.agorakit.org" target="_blank">Utilisez l'Agora partagée</a>
         </h3>
 
     </div>
-    <h2 class="sub text-center mb-5">Vous souhaitez une Agora dédiée uniquement à votre association, école, groupe citoyen, politique ? Vous voulez tester la plateforme?</h2>
+    <h2 class="sub text-center mb-5">2. Agora dédiée spécifiquement à votre organisme, école, groupe citoyen ou politique.</h2>
 
     <div class="card-deck mb-3 text-center align-self-stretch">
 
@@ -43,9 +44,9 @@
             <div class="card-body">
                 <h1 class="card-title pricing-card-title">0€ <small class="text-muted">/ mois</small></h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li><strong>Vous gérez tout vous même</strong></li>
+                    <li><strong>Vous gérez tout vous même</strong> (installation, maintenance, sauvegardes, support technique)</li>
                     <li>Pas de version "freemium" ou d'édition "pro"</li>
-                    <li>Licence AGPL pour usage non commercial</li>
+                    <li><a href="https://github.com/agorakit/agorakit/blob/master/licence.txt">Licence AGPL</a> pour usage non commercial</li>
                     <li>Vous prenez en charge les <strong>frais d'hébergement</strong>, de mise à jour et de maintenance</li>
                     <li><strong>Demande beaucoup de compétences techniques</strong></li>
                 </ul>
@@ -67,7 +68,7 @@
             <div class="card-body">
                 <h1 class="card-title pricing-card-title">40€ <small class="text-muted">/ mois</small></h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>Votre serveur Agora privé infogéré: hébergement, installation, maintenance, mises à jour</li>
+                    <li>Votre serveur Agora privé comprenant hébergement, installation, maintenance, mises à jour : <strong>on s'occupe de tout</strong></li>
                     <li><strong>30 jours d'essai gratuits</strong></li>
                     <li>Utilisez votre nom de domaine ou sous-domaine</li>
                     <li><strong>Groupes et utilisateurs illimités</strong></li>
@@ -92,7 +93,7 @@
             <div class="card-body">
                 <h1 class="card-title pricing-card-title">80€ <small class="text-muted">/ mois</small></h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>Votre serveur Agora privé infogéré: hébergement, installation, maintenance, mises à jour</li>
+                    <li>Votre serveur Agora privé comprenant hébergement, installation, maintenance, mises à jour : <strong>on s'occupe de tout</strong></li>
                     <li><strong>30 jours d'essai gratuits</strong></li>
                     <li>Utilisez votre nom de domaine ou sous-domaine</li>
                     <li><strong>Groupes et utilisateurs illimités</strong></li>

@@ -5,21 +5,20 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav mr-auto">
-            <a class="nav-item nav-link" href="https://app.agorakit.org" target="_blank">
-                <i class="fas fa-server"></i> Try it
-            </a>
 
             <a class="nav-item nav-link" href="./support.php">
                 <i class="fas fa-heart"></i> Support the project
             </a>
 
-            <a class="nav-item nav-link" href="https://docs.agorakit.org" target="_blank">
-                <i class="fas fa-book"></i> Documentation
+            <a class="nav-item nav-link" href="./pricing.php">
+                </i> Pricing
             </a>
 
-            <a class="nav-item nav-link" href="./services.php">
-                <i class="fas fa-database"></i> Custom hosting
+            <a class="nav-item nav-link" href="https://docs.agorakit.org" target="_blank">
+                Documentation
             </a>
+
+            
         </div>
         <div class="navbar-nav">
 
@@ -27,8 +26,13 @@
                 <i class="fab fa-github"></i> Github
             </a>
             <a class="nav-item nav-link" href="../fr/">Version française</a>
+
+            <a class="nav-item nav-link btn btn-secondary" href="https://app.agorakit.org" target="_blank">
+                <i class="fas fa-users"></i> Log-in
+            </a>
+
         </div>
 
     </div>
-</div>
+    </div>
 </nav>
