@@ -21,8 +21,12 @@
     <div class=" col-10">
         <h2>
             Agorakit is web-based, open source groupware for collectives.
-            <br />By creating collaborative groups, people can discuss topics, organize events, store files and keep everyone updated as needed.
-            <br />Agorakit is a forum, calendar, file manager, mapping tool and email notifier.
+            <br />
+            <br/>
+            By creating collaborative groups, people can discuss topics, organize events, store files and keep everyone updated as needed.
+            <br />
+            <br/>
+            Agorakit is a forum, calendar, file manager, mapping tool and email notifier.
         </h2>
     </div>
 </div>
