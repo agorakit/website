@@ -97,7 +97,7 @@
                     <li><strong>30-day free trial</strong></li>
                     <li>Use your domain or sub domain</li>
                     <li><strong>Unlimited groups and users</strong></li>
-                    <li>10Gb storage</li>
+                    <li>20Gb storage</li>
                     <li>Email support</li>
                     <li><strong>You support the project by financing one hour of development per month: thank you!</strong></li>
                 </ul>
