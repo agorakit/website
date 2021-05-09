@@ -20,7 +20,7 @@
         <p>Ce serveur est à prix libre mais présente quelques limitations : </p>
         <ul>
             <li>La taille des fichiers que l’on peut poster est de 3 mégas maximum.
-            <li>Il est impossible de créer des groupes secrets.
+            <li>Il est impossible de créer des groupes secrets (c'est à dire non listés dans l'annuaire des groupes).
             <li>Les groupes partagent un même serveur.
         </ul>
 

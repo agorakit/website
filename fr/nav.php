@@ -35,7 +35,7 @@
             </a>
 
             <a class="nav-item nav-link btn btn-secondary" href="https://app.agorakit.org" target="_blank">
-                <i class="fas fa-users"></i> Connexion
+                <i class="fas fa-users"></i> Connexion à l'Agora partagée
             </a>
 
         </div>
