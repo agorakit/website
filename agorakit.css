@@ -7,6 +7,7 @@ body
     color: #49433c;
 }
 
+/*
 .navbar
 {
     background-color: #1a3a45 !important;
@@ -15,7 +16,7 @@ body
 .navbar-dark .navbar-nav .nav-link {
     color: rgba(255,255,255,.9);
 }
-
+*/
 
 h1
 {
@@ -32,7 +33,7 @@ nav
 h1, h2, h3, h4
 {
     font-family: 'Nunito';
-    font-weight:800;
+    font-weight:400;
     /*color: #3f382a;*/
     color: #1a3a45;
 }
@@ -49,7 +50,7 @@ h4
 
 .big-button, .big-button:hover
 {
-    border-radius: 4rem;
+    border-radius: 5px;
     background-color: #49433c;
     color: white;
     padding: 1rem 2rem;
@@ -58,7 +59,6 @@ h4
 .big
 {
     font-size: 1.2em;
-    /*color: rgb(71, 78, 82);*/
     line-height: 1.2em;
 }
 
@@ -78,7 +78,6 @@ h4
     border-bottom: 1px solid #ddd;
     margin-bottom: 0.8em;
     padding-bottom: 0.8em;
-    /*text-align: left;*/
     font-weight:400;
 }
 
@@ -95,13 +94,10 @@ h4
 
 .pricing-card .card-header
 {
-    /*background-color: #319ede;*/
     background-color: #1a3a45;
     color: white;
 
 }
-
-
 
 .container
 {
@@ -126,7 +122,7 @@ h4
 .jumbotron p
 {
     font-size: 2em;
-    font-weight: 700;
+    font-weight: 3;
 }
 
 @media screen and (max-width: 800px) {
@@ -177,11 +173,6 @@ h4
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.agorakit-logo
-{
-
 }
 
 .agorakit-intro h1

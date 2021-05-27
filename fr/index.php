@@ -153,8 +153,8 @@
 
 
 
-<div class="container">
-    <div class="col-md-7 ml-0 pl-0">
+<div class="container-sm w-75">
+    <div class="ml-0 pl-0">
         <h2>Qui utilise Agorakit ?</h2>
         <p>Agorakit est utilisé depuis 2015 par plusieurs mouvements d'envergure,
             tels que <a href="https://agora.reseautransition.be/" target="_blank">le Réseau Transition</a>, <a href="https://participer.toutautrechose.be" target="_blank">Tout autre chose</a> et <a href="http://deelnemen.hartbovenhard.be" target="_blank">Hart Boven Hard</a>.
