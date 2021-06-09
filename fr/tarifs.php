@@ -19,6 +19,7 @@
 
         <p>Ce serveur est à prix libre mais présente quelques limitations : </p>
         <ul>
+            <li>Destiné aux collectifs citoyens en priorité, il n'est pas destiné à un usage commercial / professionnel au delà d'une période de test raisonnable.
             <li>La taille des fichiers que l’on peut poster est de 3 mégas maximum.
             <li>Il est impossible de créer des groupes secrets (c'est à dire non listés dans l'annuaire des groupes).
             <li>Les groupes partagent un même serveur.
@@ -32,7 +33,7 @@
         </h3>
 
     </div>
-    <h2 class="sub text-center mb-5">2. Agora dédiée spécifiquement à votre organisme, école, groupe citoyen ou politique.</h2>
+    <h2 class="sub text-center mb-5">2. Agora dédiée spécifiquement à votre entreprise, organisme, école, groupe citoyen ou politique.</h2>
 
     <div class="card-deck mb-3 text-center align-self-stretch">
 
