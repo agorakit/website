@@ -16,13 +16,18 @@
 
 
             <p>
-                <strong>Wrting</strong> Agorakit, testing it and adding new features takes a lot of time.
+                <strong>Writing</strong> the code of Agorakit, testing it and adding new features takes a lot of time and patience.
             </p>
+
+            <p>
+                Managing the shared Agora on app.agorakit.org takes also some ressources (including moderation and end user support).
+            </p>
+
             <p>
                 You want to support the project? Your group uses <a href="https://app.agorakit.org" target="_blank">the shared Agora</a>? Or you use Agorakit somewhere else and want to see it evolves quicker?
             </p>
             <p>
-                You think it's important to offer free, non proprietary collaboration spaces to everyone?
+                You think it's important to offer free, non proprietary collaborative spaces to everyone?
             </p>
 
 
@@ -46,70 +51,64 @@
 
 
 
-<!--
+
 <div class="container my-2">
     <div class="row">
         <div class="col-md-7">
 
-            <h1>Des questions ?</h1>
+            <h1>Questions</h1>
 
-            <h2 class="mt-3">Quel montant donner ?</h2>
+            <h2 class="mt-3">How much should I give?</h2>
 
 
             <p>
-                Certains groupes ont des moyens très limités et d'autres peuvent se permettre de soutenir activement un projet tel que Agorakit. Nous laissons le libre choix à chacun de payer ce qui est possible afin d'aider le plus grand nombre de groupes.
-            </p>
-
-            <h2 class="mt-5">Si je fais un don récurrent, puis-je arrêter à tout moment?</h2>
-
-            <p>
-                Oui, vous recevez automatiquement un compte <a href="https://donorbox.org/" target="_blank">Donorbox</a> qui vous permet d'arrêter quand vous voulez.
-            </p>
-
-
-            <h2 class="mt-5">Je pensais que les logiciels libres étaient gratuits !?</h2>
-
-            <p>
-                Un logiciel libre (open source) tel que Agorakit est en effet gratuit à télécharger et à installer.
-            </p>
-            <p>
-                Par contre, le développement, la maintenance et le support technique coûtent de l'argent (ou plutôt beaucoup de temps majoritairement non rémunéré :-) ).
-            </p>
-            <p>
-                En faisant un don, vous soutenez le projet et permettez au développeur de dégager du temps pour améliorer le logiciel et en faire profiter tout le monde.
-            </p>
-
-
-            <h2 class="mt-5">Le paiement est-il sécurisé?</h2>
-
-            <p>
-                Nous utilisons <a href="https://donorbox.org/" target="_blank">Donorbox</a>, un des prestataires de donation les plus utilisés. Vos données bancaires ne transitent jamais par nos serveurs.
-            </p>
-
-            <h2 class="mt-5">Où est hébergé Agorakit?</h2>
-
-            <p>
-                En France, chez <a href="https://alwaysdata.com" target="_blank">Alwaysdata</a>, un excellent hébergeur <a href="https://www.alwaysdata.com//fr/transparence/">qui a</a> <a href="https://www.alwaysdata.com//fr/green-it/">des</a> <a href="https://www.alwaysdata.com//fr/open-source/">valeurs</a>.
-                <br/>
-                Vos données sont en sécurité grâce à un hébergeur performant qui propose une sauvegarde quotidienne sur 30 jours.
+                You really give what you want and what your group can afford. You might also choose to use Agorakit and the shared Agora for free, this is fine too :-).
             </p>
 
 
 
 
-            <h2 class="mt-5">Qui détient mes données?</h2>
+            <h2 class="mt-5">I thought open source software was free?</h2>
+            <p>
+                Free software (open source) such as Agorakit is in fact free to download and install.
+            </p>
+            <p>
+                On the other hand, development, maintenance and technical support cost money (or rather a lot of time, mostly unpaid :-)).
+            </p>
+            <p>
+                By making a donation, you support the project and allow the developer to free up time to improve the software and benefit everyone.
+            </p>
+
+            <h2 class="mt-5">Is payment secure?</h2>
 
             <p>
-                Vous êtes et serez toujours le/la propriétaire de vos données. Il est toujours possible pour un groupe d'exporter des données et de les réinstaller ailleurs.
-                <br/>
-                Agorakit est un logiciel open source : cela signifie que vous pouvez à tout moment héberger "votre" Agorakit ailleurs. Vous n'êtes pas coincé.e sur une plateforme propriétaire.
+                We use <a href="https://donorbox.org/" target="_blank">Donorbox</a>, one of the most used donation providers. Your banking data never passes through our servers.
+            </p>
+
+            <h2 class="mt-5">Where is Agorakit hosted?</h2>
+
+            <p>
+                In France, at <a href="https://alwaysdata.com" target="_blank">Alwaysdata</a>, an excellent hosting provider <a href="https://www.alwaysdata.com//fr/ transparency/">which has</a> <a href="https://www.alwaysdata.com//fr/green-it/">some</a> <a href="https://www. alwaysdata.com//en/open-source/">values</a>.
+                <br />
+                Your data is safe thanks to a powerful host that offers daily backup for 30 days.
+            </p>
+
+
+
+
+            <h2 class="mt-5">Who holds my data?</h2>
+
+            <p>
+                You are and always will be the owner of your data. It is always possible for a group to export data and reinstall it elsewhere.
+                <br />
+                Agorakit is open source software: this means that you can host "your" Agorakit elsewhere at any time. You are not stuck on a proprietary platform.
             </p>
         </div>
 
     </div>
 
 </div>
--->
+
 
 
 <?php include('footer.php') ?>
