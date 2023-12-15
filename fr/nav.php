@@ -1,10 +1,12 @@
-<nav class="navbar navbar-expand navbar-light bg-light shadow-sm">
+<nav class="navbar bg-dark  navbar-expand-lg border-bottom border-body" data-bs-theme="dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href="/fr"><img src="../images/logo-color.svg" width="140" /></a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+
+        <a class="navbar-brand" href="./"><img src="../images/logo-white.svg" width="40" height="40" /> Agorakit</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
             <div class="navbar-nav mr-auto">
                 <a class="nav-item nav-link" href="./soutenir.php">
                     <i class="fas fa-heart"></i> Soutenir le projet
@@ -42,5 +44,4 @@
 
             </div>
         </div>
-    </div>
 </nav>

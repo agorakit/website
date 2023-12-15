@@ -1,106 +1,80 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;700&display=swap');
 
-body
-{
+body {
     font-family: 'Nunito', sans-serif;
     font-weight: 400;
     color: #49433c;
 }
 
-/*
-.navbar
-{
-    background-color: #1a3a45 !important;
-}
 
-.navbar-dark .navbar-nav .nav-link {
-    color: rgba(255,255,255,.9);
-}
-*/
-
-h1
-{
+h1 {
     font-size: 3.2em;
 }
 
-/*
-nav
-{
-    font-family: 'Noto Serif';
-}
-*/
 
-h1, h2, h3, h4
-{
+h1,
+h2,
+h3,
+h4 {
     font-family: 'Nunito';
-    font-weight:400;
+    font-weight: 400;
     /*color: #3f382a;*/
     color: #1a3a45;
 }
 
-h2.sub
-{
+h2.sub {
     color: #49433c;
 }
 
-h4
-{
+h4 {
     color: #49433c;
 }
 
-.big-button, .big-button:hover
-{
+.big-button,
+.big-button:hover {
     border-radius: 5px;
     background-color: #49433c;
     color: white;
     padding: 1rem 2rem;
 }
 
-.big
-{
+.big {
     font-size: 1.2em;
     line-height: 1.2em;
 }
 
-.card-title
-{
+.card-title {
     font-size: 3em;
 }
 
-.card-header h4
-{
+.card-header h4 {
     font-size: 1.6em;
     color: white;
 }
 
-.pricing-card li
-{
+.pricing-card li {
     border-bottom: 1px solid #ddd;
     margin-bottom: 0.8em;
     padding-bottom: 0.8em;
-    font-weight:400;
+    font-weight: 400;
 }
 
-.pricing-card li:last-child
-{
+.pricing-card li:last-child {
     border-bottom: none;
 }
 
-.pricing-card .card-title
-{
+.pricing-card .card-title {
     margin-bottom: 0.5em;
 }
 
 
-.pricing-card .card-header
-{
+.pricing-card .card-header {
     background-color: #1a3a45;
     color: white;
 
 }
 
-.container
-{
+.container {
     max-width: 70em;
     padding-bottom: 2em;
 }
@@ -114,69 +88,57 @@ h4
     height: 100vh;
 }
 
-.jumbotron h1
-{
+.jumbotron h1 {
     font-size: 4em;
 }
 
-.jumbotron p
-{
+.jumbotron p {
     font-size: 2em;
     font-weight: 3;
 }
 
 @media screen and (max-width: 800px) {
 
-    h1
-    {
+    h1 {
         font-size: 2.8em;
     }
 
-    h2
-    {
+    h2 {
         font-size: 2em;
     }
 
-    .card-title
-    {
+    .card-title {
         font-size: 2em;
     }
 
-    .card-header h4
-    {
+    .card-header h4 {
         font-size: 1.5em;
     }
 
-    .jumbotron h1
-    {
+    .jumbotron h1 {
         font-size: 2em;
     }
 
-    .jumbotron p
-    {
+    .jumbotron p {
         font-size: 1em;
     }
 }
 
 
-.shadow
-{
-    border: 1px solid rgba(0,0,0,0.2);;
-    /*box-shadow: 10px 10px 25px -6px rgba(0,0,0,1) !important;*/
-    box-shadow: 0 .5rem 1rem rgba(0,0,0,.25) !important;
+.shadow {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .25) !important;
 }
 
 
-.agorakit-intro
-{
+.agorakit-intro {
     height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.agorakit-intro h1
-{
+.agorakit-intro h1 {
 
     font-size: 12em;
     text-align: right;
@@ -188,8 +150,7 @@ h4
 }
 
 
-.agorakit-intro p
-{
+.agorakit-intro p {
     position: relative;
     top: 0.5em;
     font-size: 1.25em;
@@ -197,25 +158,21 @@ h4
     font-weight: 300;
 }
 
-.agorakit-sumary
-{
+.agorakit-sumary {
     font-size: 1.5em;
 }
 
 
 
-.centered
-{
+.centered {
     text-align: center;
 }
 
 
-.card
-{
+.card {
     margin-bottom: 3em;
 }
 
-.card img
-{
-    cursor : pointer;
+.card img {
+    cursor: pointer;
 }
