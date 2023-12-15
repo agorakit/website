@@ -21,13 +21,13 @@
     <div class=" col-10">
         <h2>
             Agorakit est un logiciel collaboratif <strong>de travail en équipe</strong>.
-            <br/><br/>
+            <br /><br />
             En créant des groupes, les participants peuvent discuter, fixer des dates, partager des documents et <strong>tenir tout le monde à jour</strong>.
-            <br/>
-            <br/>
+            <br />
+            <br />
             Agorakit est un forum, un calendrier, un gestionnaire de fichiers, un outil de cartographie et de notification par email.
-            <br/>
-            <br/>
+            <br />
+            <br />
             Agorakit est un logiciel libre <strong>en constante évolution</strong>.
 
         </h2>
@@ -157,8 +157,8 @@
     <div class="ml-0 pl-0">
         <h2>Qui utilise Agorakit ?</h2>
         <p>Agorakit est utilisé depuis 2015 par plusieurs mouvements d'envergure,
-            tels que <a href="https://agora.reseautransition.be/" target="_blank">le Réseau Transition</a>, <a href="https://participer.toutautrechose.be" target="_blank">Tout autre chose</a> et <a href="http://deelnemen.hartbovenhard.be" target="_blank">Hart Boven Hard</a>.
-            <strong>Des milliers d'associations, d'écoles, de groupes informels l'utilisent également à travers le monde sur l'Agora partagée.</strong>
+            tels que <a href="https://agora.reseautransition.be/" target="_blank">le Réseau Transition</a>.
+            <strong>Des milliers d'associations, d'écoles, de groupes informels l'utilisent également à travers le monde sur <a href="https://app.agorakit.org">l'Agora partagée</a>.</strong>
         </p>
 
         <h2>Licence d'utilisation</h2>

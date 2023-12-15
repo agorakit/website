@@ -26,11 +26,11 @@
         </ul>
 
         <p>A part ces quelques limitations, ce serveur est totalement fonctionnel. Le projet fonctionne grâce aux dons et au bénévolat.</p>
-        
 
-        <h3 class="sub text-center mt-5 mb-5">
-            <a class="big-button" href="https://app.agorakit.org" target="_blank">Utilisez l'Agora partagée</a>
-        </h3>
+
+        <div class="sub text-center mt-5 mb-5">
+            <a class="btn btn-primary btn-lg" href="https://app.agorakit.org" target="_blank">Utilisez l'Agora partagée</a>
+        </div>
 
     </div>
     <h2 class="sub text-center mb-5">2. Agora dédiée spécifiquement à votre entreprise, organisme, école, groupe citoyen ou politique.</h2>
@@ -113,7 +113,7 @@
     </div>
 
     <h2 class="sub text-center mb-5">Vous avez des questions ou souhaitez un devis personalisé?<br /><br />
-        <a class="big-button" href="mailto:info@agorakit.org">Contactez-nous</a>
+        <a href="mailto:info@agorakit.org">Contactez-nous</a>
     </h2>
 
 

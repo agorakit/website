@@ -1,7 +1,6 @@
-<h2 class="sub text-center mt-5 mb-5">
-    <a class="big-button" href="https://app.agorakit.org" target="_blank">Use the shared Agora</a>
-
-</h2>
+<div class="text-center mt-3 mb-5">
+    <a class="btn btn-primary btn-lg" href="https://app.agorakit.org" target="_blank">Use the shared Agora</a>
+</div>
 
 <footer class="mt-5">
     <div class="container centered">
