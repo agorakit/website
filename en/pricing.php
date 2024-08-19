@@ -25,14 +25,14 @@
         </ul>
 
         <p>Beside those limitations, the server is fully functional. The project is funded trough donations and benevolent work.</p>
-        
+
 
         <h3 class="sub text-center mt-5 mb-5">
             <a class="big-button" href="https://app.agorakit.org" target="_blank">Use the shared Agora</a>
         </h3>
 
     </div>
-    <h2 class="sub text-center mb-5">2. Dedicated Agora <br/>for non-profit, school, citizen collective, advocacy group, etc.</h2>
+    <h2 class="sub text-center mb-5">2. Dedicated Agora <br />for non-profit, school, citizen collective, advocacy group, etc.</h2>
 
     <div class="card-deck mb-3 text-center align-self-stretch">
 
@@ -46,7 +46,7 @@
                 <ul class="list-unstyled mt-3 mb-4">
                     <li><strong>You handle everything</strong> (installation, maintenance, backups, technical support)</li>
                     <li>No "freemium" or "pro" version, this is the real deal.</li>
-                    <li><a href="https://github.com/agorakit/agorakit/blob/master/licence.txt">AGPL licence</a> for non commercial use</li>
+                    <li><a href="https://github.com/agorakit/agorakit/blob/main/COPYING">AGPL licence</a> for non commercial use</li>
                     <li>You support <strong>hosting fees</strong>, updates and backups.</li>
                     <li><strong>Requires a lot of technical knowledge</strong></li>
                 </ul>
@@ -141,7 +141,7 @@
         <h2 class="mt-5">I thought that open source software was free?!</h2>
 
         <p class="big">
-            An open source software like Agorakit is indeed free to download and install. But development, hosting and support costs money. If you support us, you support the project.            
+            An open source software like Agorakit is indeed free to download and install. But development, hosting and support costs money. If you support us, you support the project.
         </p>
 
 

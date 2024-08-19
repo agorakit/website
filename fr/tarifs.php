@@ -47,7 +47,7 @@
                 <ul class="list-unstyled mt-3 mb-4">
                     <li><strong>Vous gérez tout vous même</strong> (installation, maintenance, sauvegardes, support technique)</li>
                     <li>Pas de version "freemium" ou d'édition "pro"</li>
-                    <li><a href="https://github.com/agorakit/agorakit/blob/master/licence.txt">Licence AGPL</a> pour usage non commercial</li>
+                    <li><a href="https://github.com/agorakit/agorakit/blob/main/COPYING">Licence AGPL</a> pour usage non commercial</li>
                     <li>Vous prenez en charge les <strong>frais d'hébergement</strong>, de mise à jour et de maintenance</li>
                     <li><strong>Demande beaucoup de compétences techniques</strong></li>
                 </ul>

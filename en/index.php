@@ -22,10 +22,10 @@
         <h2>
             Agorakit is web-based, open source groupware for collectives.
             <br />
-            <br/>
+            <br />
             By creating collaborative groups, people can discuss topics, organize events, store files and keep everyone updated as needed.
             <br />
-            <br/>
+            <br />
             Agorakit is a forum, calendar, file manager, mapping tool and email notifier.
         </h2>
     </div>
@@ -124,7 +124,7 @@
 <div class="container my-5">
     <h2>In use</h2>
     <p>Agorakit has been used successfully since 2015 for several citizen initiatives such as
-        <a href="https://participer.toutautrechose.be">Tout autre chose</a>, <a href="http://deelnemen.hartbovenhard.be">Hart boven hard</a>, <a href="https://agora.reseautransition.be/">The transition network</a> and others.
+        <a href="https://participer.toutautrechose.org">Tout autre chose</a>, <a href="http://deelnemen.hartbovenhard.be">Hart boven hard</a>, <a href="https://agora.reseautransition.be/">The transition network</a> and others.
     </p>
     <p>
         There is a <a href="https://app.agorakit.org/">free instance</a> boasting hundreds of groups and thousands of users.
@@ -132,7 +132,7 @@
 
     <h2>Licence</h2>
     <p>
-        Agorakit is released under the GPL licence. It is open source and can be freely extended and used by others.
+        Agorakit is released under the AGPL licence. It is open source and can be freely extended and used by others.
     </p>
 
     <h2>Status</h2>
