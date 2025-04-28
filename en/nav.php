@@ -8,27 +8,21 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
             <div class="navbar-nav mr-auto">
-
+                <a class="nav-item nav-link" href="https://docs.agorakit.org" target="_blank">
+                    <i class="fas fa-book"></i> Docs
+                </a>
+                <a class="nav-item nav-link" href="https://app.agorakit.org" target="_blank">
+                    <i class="fas fa-users"></i> Community
+                </a>
+                <a class="nav-item nav-link" href="https://github.com/agorakit/agorakit" target="_blank">
+                    <i class="fab fa-github"></i> GitHub
+                </a>
                 <a class="nav-item nav-link" href="./support.php">
                     <i class="fas fa-heart"></i> Donate
                 </a>
-                <a class="nav-item nav-link" href="https://docs.agorakit.org" target="_blank">
-                    Documentation
+                <a class="nav-item nav-link" href="../fr/">
+                    <i class="fab fa-language"></i> Française
                 </a>
-
-
-            </div>
-            <div class="navbar-nav">
-
-                <a class="nav-item nav-link" href="https://github.com/agorakit/agorakit" target="_blank">
-                    <i class="fab fa-github"></i> Github
-                </a>
-                <a class="nav-item nav-link" href="../fr/">Version française</a>
-
-                <a class="nav-item nav-link" href="https://app.agorakit.org" target="_blank">
-                    <i class="fas fa-users"></i> Login to shared Agora
-                </a>
-
             </div>
 
         </div>
